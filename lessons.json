@@ -1,0 +1,1222 @@
+[
+    {
+        "title": "Tầm quan trọng và ứng dụng của công nghệ nano trong lĩnh vực y học hiện đại",
+        "text": "Công nghệ nano là lĩnh vực khoa học kỹ thuật chuyên xử lý các vật thể ở quy mô phân tử và nguyên tử với kích thước từ 1 đến 100 nanomet. Sự phát triển mạnh mẽ của công nghệ này đã mở ra những chân trời mới, đặc biệt là trong y học nano, nơi các thiết bị và vật liệu siêu nhỏ được ứng dụng để phòng ngừa cũng như điều trị bệnh lý. Nhờ khả năng tác động vào cấp độ tế bào, y học nano đã giúp các bác sĩ tối ưu hóa quy trình chẩn đoán, xác định vị trí khối u và thực hiện các liệu pháp điều trị chính xác chưa từng có.\n\nTrong lĩnh vực chẩn đoán, các nhà khoa học đã chế tạo thành công nhiều loại chip sinh học và đầu dò nano có khả năng nhận diện tín hiệu phân tử từ rất sớm. Chẳng hạn, việc sử dụng ống nano carbon hoặc các que vàng nano cho phép phát hiện những tế bào ung thư hoặc tổn thương thận mà các phương pháp hiển vi thông thường khó lòng nhận diện được. Đặc biệt, kỹ thuật sử dụng hạt nano đất hiếm giúp phát hiện các ổ di căn thông qua tia hồng ngoại sóng ngắn, tạo điều kiện thuận lợi cho việc can thiệp trong giai đoạn vàng của bệnh.\n\nVề mặt điều trị, công nghệ nano cung cấp các giải pháp vượt trội như sử dụng tampon nano để hấp thụ độc tố, hay hạt nano từ tính giúp dẫn truyền thuốc trực tiếp đến tế bào đích mà không gây hại cho các mô lành xung quanh. Các kỹ thuật này không chỉ nâng cao hiệu quả dược lý mà còn giảm thiểu đáng kể tác dụng phụ cho bệnh nhân. Hơn nữa, việc ứng dụng hạt nano bạc trong sát khuẩn và các nanorobot được lập trình để chỉnh sửa bệnh lý tế bào đang dần trở thành hiện thực, hứa hẹn thay đổi hoàn toàn cục diện điều trị các bệnh mãn tính và truyền nhiễm.\n\nƯu điểm lớn nhất của y học nano nằm ở khả năng chẩn đoán chính xác đến từng chi tiết và điều trị trúng đích. Việc đưa thuốc đến đúng vị trí tổn thương giúp tiết kiệm dược phẩm và bảo vệ các cơ quan khỏe mạnh. Từ những ứng dụng đơn giản như bạc nano trong đời sống hằng ngày đến những kỹ thuật phức tạp như liệu pháp nhiệt mục tiêu, công nghệ nano đang chứng minh vai trò không thể thay thế trong việc nâng cao chất lượng cuộc sống. Với những bước tiến không ngừng nghỉ, chúng ta có đầy đủ cơ sở để kỳ vọng rằng y học nano sẽ tiếp tục mang lại những lợi ích thần kỳ, giúp con người chiến thắng được những căn bệnh hiểm nghèo và bảo vệ sức khỏe cộng đồng một cách bền vững trong tương lai.",
+        "dictionary": {
+            "Công nghệ": "技术",
+            "nano": "纳米",
+            "lĩnh vực": "领域",
+            "khoa học": "科学",
+            "kỹ thuật": "技术",
+            "xử lý": "处理",
+            "vật thể": "物体",
+            "quy mô": "规模",
+            "phân tử": "分子",
+            "nguyên tử": "原子",
+            "kích thước": "尺寸",
+            "nanomet": "纳米",
+            "Sự phát triển": "发展",
+            "mạnh mẽ": "强大",
+            "mở ra": "开启",
+            "chân trời": "视野",
+            "mới": "新",
+            "đặc biệt": "特别",
+            "y học": "医学",
+            "nơi": "地方",
+            "thiết bị": "设备",
+            "vật liệu": "材料",
+            "siêu nhỏ": "微小",
+            "ứng dụng": "应用",
+            "phòng ngừa": "预防",
+            "điều trị": "治疗",
+            "bệnh lý": "病理",
+            "khả năng": "能力",
+            "tác động": "作用",
+            "cấp độ": "级别",
+            "tế bào": "细胞",
+            "bác sĩ": "医生",
+            "tối ưu hóa": "优化",
+            "quy trình": "流程",
+            "chẩn đoán": "诊断",
+            "xác định": "确定",
+            "vị trí": "位置",
+            "khối u": "肿瘤",
+            "thực hiện": "执行",
+            "liệu pháp": "疗法",
+            "chính xác": "精确",
+            "nhà khoa học": "科学家",
+            "chế tạo": "制造",
+            "thành công": "成功",
+            "chip": "芯片",
+            "sinh học": "生物",
+            "đầu dò": "探针",
+            "nhận diện": "识别",
+            "tín hiệu": "信号",
+            "sớm": "早",
+            "ống": "管",
+            "carbon": "碳",
+            "que": "棒",
+            "vàng": "黄金",
+            "phát hiện": "发现",
+            "ung thư": "癌症",
+            "tổn thương": "损伤",
+            "thận": "肾",
+            "phương pháp": "方法",
+            "hiển vi": "显微",
+            "thông thường": "普通",
+            "khó": "难",
+            "hạt": "颗粒",
+            "đất hiếm": "稀土",
+            "ổ di căn": "转移灶",
+            "tia hồng ngoại": "红外线",
+            "sóng ngắn": "短波",
+            "điều kiện": "条件",
+            "thuận lợi": "便利",
+            "can thiệp": "干预",
+            "giai đoạn": "阶段",
+            "bệnh": "病",
+            "mặt": "方面",
+            "cung cấp": "提供",
+            "giải pháp": "解决方案",
+            "vượt trội": "卓越",
+            "tampon": "棉条",
+            "hấp thụ": "吸收",
+            "độc tố": "毒素",
+            "từ tính": "磁性",
+            "dẫn truyền": "传导",
+            "thuốc": "药物",
+            "trực tiếp": "直接",
+            "đích": "目标",
+            "gây hại": "伤害",
+            "mô": "组织",
+            "lành": "健康",
+            "xung quanh": "周围",
+            "nâng cao": "提高",
+            "hiệu quả": "效果",
+            "dược lý": "药理",
+            "giảm thiểu": "减少",
+            "đáng kể": "显著",
+            "tác dụng phụ": "副作用",
+            "bệnh nhân": "病人",
+            "bạc": "银",
+            "sát khuẩn": "杀菌",
+            "nanorobot": "纳米机器人",
+            "lập trình": "编程",
+            "chỉnh sửa": "修正",
+            "hiện thực": "现实",
+            "hứa hẹn": "承诺",
+            "thay đổi": "改变",
+            "cục diện": "局势",
+            "mãn tính": "慢性",
+            "truyền nhiễm": "传染",
+            "Ưu điểm": "优点",
+            "lớn": "大",
+            "trúng đích": "靶向",
+            "đưa": "送",
+            "đúng": "正确",
+            "tiết kiệm": "节约",
+            "dược phẩm": "药品",
+            "bảo vệ": "保护",
+            "cơ quan": "器官",
+            "khỏe mạnh": "健康",
+            "đơn giản": "简单",
+            "đời sống": "生活",
+            "hằng ngày": "日常",
+            "phức tạp": "复杂",
+            "nhiệt": "热",
+            "mục tiêu": "目标",
+            "chứng minh": "证明",
+            "vai trò": "作用",
+            "thay thế": "替代",
+            "chất lượng": "质量",
+            "bước tiến": "进步",
+            "không ngừng nghỉ": "不懈",
+            "cơ sở": "基础",
+            "kỳ vọng": "期望",
+            "lợi ích": "利益",
+            "thần kỳ": "神奇",
+            "con người": "人类",
+            "chiến thắng": "战胜",
+            "hiểm nghèo": "危重",
+            "sức khỏe": "健康",
+            "cộng đồng": " cộng đồng",
+            "bền vững": "可持续",
+            "tương lai": "未来"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Công nghệ nano là lĩnh vực chuyên xử lý các vật thể ở quy mô phân tử.",
+                    "Sự phát triển mạnh mẽ của công nghệ nano mở ra những chân trời mới trong y học.",
+                    "Nhờ khả năng tác động vào cấp độ tế bào, y học nano giúp tối ưu hóa quy trình chẩn đoán.",
+                    "Vì công nghệ nano phát triển, nên y học nano giúp các bác sĩ tối ưu hóa quy trình chẩn đoán."
+                ],
+                "correct": "Vì công nghệ nano phát triển, nên y học nano giúp các bác sĩ tối ưu hóa quy trình chẩn đoán."
+            },
+            {
+                "question": "Theo bài đọc, các vật thể trong công nghệ nano có kích thước nằm trong khoảng nào?",
+                "options": [
+                    "Từ 1 đến 100 nanomet",
+                    "Dưới 1 nanomet",
+                    "Trên 100 nanomet",
+                    "Từ 10 đến 1000 nanomet"
+                ],
+                "correct": "Từ 1 đến 100 nanomet"
+            },
+            {
+                "question": "Đặc điểm nổi bật của hạt nano từ tính trong điều trị bệnh là gì?",
+                "options": [
+                    "Có khả năng sát khuẩn mạnh mẽ",
+                    "Giúp dẫn truyền thuốc trực tiếp đến tế bào đích",
+                    "Có khả năng hấp thụ độc tố trong cơ thể",
+                    "Giúp phát hiện các ổ di căn qua tia hồng ngoại"
+                ],
+                "correct": "Giúp dẫn truyền thuốc trực tiếp đến tế bào đích"
+            },
+            {
+                "question": "Từ “đích” trong cụm từ “tế bào đích” có thể được hiểu là gì?",
+                "options": [
+                    "Tế bào bị tổn thương cần điều trị",
+                    "Tế bào khỏe mạnh xung quanh",
+                    "Tế bào đang phát triển bình thường",
+                    "Tế bào có kích thước lớn nhất"
+                ],
+                "correct": "Tế bào bị tổn thương cần điều trị"
+            },
+            {
+                "question": "Vì sao việc sử dụng hạt nano từ tính lại giúp giảm thiểu tác dụng phụ cho bệnh nhân?",
+                "options": [
+                    "Vì chúng làm tăng liều lượng thuốc cần sử dụng",
+                    "Vì chúng giúp thuốc không gây hại cho các mô lành xung quanh",
+                    "Vì chúng có khả năng tiêu diệt mọi loại tế bào trong cơ thể",
+                    "Vì chúng thay thế hoàn toàn các phương pháp phẫu thuật truyền thống"
+                ],
+                "correct": "Vì chúng giúp thuốc không gây hại cho các mô lành xung quanh"
+            },
+            {
+                "question": "Cụm từ “giai đoạn vàng” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Thời điểm bệnh nhân có nhiều tiền để chữa trị",
+                    "Thời điểm bệnh đã ở giai đoạn cuối khó chữa",
+                    "Thời điểm thuận lợi nhất để can thiệp và điều trị bệnh",
+                    "Thời điểm các bác sĩ bắt đầu nghiên cứu về bệnh"
+                ],
+                "correct": "Thời điểm thuận lợi nhất để can thiệp và điều trị bệnh"
+            },
+            {
+                "question": "Qua bài đọc, thái độ của tác giả đối với tương lai của y học nano là gì?",
+                "options": [
+                    "Hoài nghi và lo lắng về tác dụng phụ",
+                    "Thờ ơ vì cho rằng công nghệ này quá xa vời",
+                    "Tin tưởng và kỳ vọng vào những lợi ích thần kỳ",
+                    "Phê phán vì chi phí quá đắt đỏ"
+                ],
+                "correct": "Tin tưởng và kỳ vọng vào những lợi ích thần kỳ"
+            },
+            {
+                "question": "Mục đích chính của việc nhắc đến “ống nano carbon” và “que vàng nano” trong bài là gì?",
+                "options": [
+                    "Chứng minh sự đa dạng của các loại vật liệu kim loại",
+                    "Phủ nhận vai trò của các phương pháp hiển vi thông thường",
+                    "Minh chứng cho khả năng nhận diện tế bào bệnh ở giai đoạn sớm",
+                    "Giải thích quy trình sản xuất thiết bị y tế hiện đại"
+                ],
+                "correct": "Minh chứng cho khả năng nhận diện tế bào bệnh ở giai đoạn sớm"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử hình thành của công nghệ nano trên thế giới",
+                    "Ứng dụng và tiềm năng của công nghệ nano trong y học",
+                    "Cách chế tạo các loại chip sinh học từ vật liệu nano",
+                    "Những rủi ro khi áp dụng công nghệ nano vào cơ thể người"
+                ],
+                "correct": "Ứng dụng và tiềm năng của công nghệ nano trong y học"
+            },
+            {
+                "question": "Tư tưởng chủ đạo mà tác giả muốn truyền tải qua bài viết là gì?",
+                "options": [
+                    "Công nghệ nano là giải pháp duy nhất để con người sống bất tử",
+                    "Khoa học kỹ thuật cần được kiểm soát chặt chẽ để tránh lạm dụng",
+                    "Sự phát triển của y học nano đóng vai trò quan trọng trong việc nâng cao chất lượng cuộc sống",
+                    "Các phương pháp y học truyền thống đã hoàn toàn lỗi thời"
+                ],
+                "correct": "Sự phát triển của y học nano đóng vai trò quan trọng trong việc nâng cao chất lượng cuộc sống"
+            },
+            {
+                "question": "Theo bài đọc, kỹ thuật nào giúp phát hiện các ổ di căn thông qua tia hồng ngoại sóng ngắn?",
+                "options": [
+                    "Sử dụng hạt nano đất hiếm",
+                    "Sử dụng ống nano carbon",
+                    "Sử dụng các que vàng nano",
+                    "Sử dụng nanorobot"
+                ],
+                "correct": "Sử dụng hạt nano đất hiếm"
+            },
+            {
+                "question": "Từ “cục diện” trong câu “thay đổi hoàn toàn cục diện điều trị các bệnh mãn tính” có thể được thay thế bằng từ nào?",
+                "options": [
+                    "Chi phí",
+                    "Tình hình",
+                    "Địa điểm",
+                    "Thời gian"
+                ],
+                "correct": "Tình hình"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Mối quan hệ giữa văn học, tư tưởng chính trị và các giải thưởng văn chương quốc tế",
+        "text": "Văn học vốn được ví như nhân học, một bộ môn nghệ thuật về con người nên hiển nhiên không thể tách rời khỏi chính trị. Bất kỳ tác phẩm có giá trị nào cũng là sự bày tỏ thái độ của tác giả trước những sắc diện của đời sống chính trị. Thậm chí, ngay cả khi nhà văn tuyên bố đứng ngoài chính trị, tác phẩm của họ vẫn thể hiện một nhãn quan nhất định về vấn đề này. Giá trị nghệ thuật và quan điểm chính trị của tác giả dù không phải lúc nào cũng trùng khít, song chúng luôn tồn tại trong một mối quan hệ biện chứng đầy phức tạp.\n\nTrường hợp đại văn hào Mikhail Sholokhov với bộ tiểu thuyết sử thi Sông Đông êm đềm là minh chứng điển hình cho sự giao thoa giữa nghệ thuật và chính trị. Mặc dù tác phẩm này từng gây ra những dư luận trái chiều gay gắt từ các đồng nghiệp Xô viết về cái kết táo bạo, nhưng cuối cùng, sức mạnh nghệ thuật ưu việt đã chiến thắng những toan tính chính trị. Việc Sholokhov được trao Giải Nobel Văn học năm 1965 được xem là một sự kiện hiếm hoi, nơi tài năng văn chương vượt lên trên mọi định kiến về thể chế.\n\nTuy nhiên, câu chuyện về Giải Nobel Văn học không phải lúc nào cũng mang tính thuần túy nghệ thuật. Trong thế kỷ 20, nhiều nhà văn Nga khác được vinh danh nhưng lại gắn liền với những tranh cãi về tư tưởng. Đơn cử như Aleksandr Solzhenitsyn, một nhân vật phức tạp với tư tưởng bài Xô viết, người đã tạo nên làn sóng chia rẽ sâu sắc trong dư luận xã hội. Những chỉ trích từ Sholokhov đối với Solzhenitsyn trong lá thư gửi Hội Nhà văn năm 1967 cho thấy sự xung đột gay gắt giữa hai luồng quan điểm chính trị đối lập. Đến năm 2015, việc trao giải cho nữ văn sĩ Alexievich cũng tiếp tục làm dấy lên những hoài nghi về tính khách quan của hội đồng Nobel, khi nhiều người cho rằng đây là biểu hiện của thái độ thiếu thiện chí đối với Moscow.\n\nTừ những ví dụ nêu trên, có thể khẳng định rằng các tài năng văn học lớn khó lòng đứng ngoài tầm ảnh hưởng của các quan điểm chính trị mà họ theo đuổi. Những giải thưởng danh giá nhất thế giới, dù mang khát vọng trở thành chuẩn mực quốc tế, vẫn không thể tránh khỏi việc phản chiếu các hệ giá trị nhân văn gắn liền với tính định hướng chính trị của phương Tây. Điều này xác định vị trí của các nhà văn trong di sản tinh thần của quốc gia, đồng thời khẳng định rằng văn học, trong tính toàn vẹn của nó, luôn là tấm gương phản chiếu những mâu thuẫn lớn lao của thời đại.",
+        "dictionary": {
+            "văn học": "文学",
+            "ví": "比喻",
+            "nhân học": "人学",
+            "bộ môn": "学科",
+            "nghệ thuật": "艺术",
+            "con người": "人类",
+            "hiển nhiên": "显然",
+            "tách rời": "脱离",
+            "chính trị": "政治",
+            "tác phẩm": "作品",
+            "giá trị": "价值",
+            "bày tỏ": "表达",
+            "thái độ": "态度",
+            "tác giả": "作者",
+            "sắc diện": "面貌",
+            "đời sống": "生活",
+            "thậm chí": "甚至",
+            "nhà văn": "作家",
+            "tuyên bố": "声明",
+            "đứng ngoài": "置身事外",
+            "thể hiện": "体现",
+            "nhãn quan": "眼光",
+            "vấn đề": "问题",
+            "quan điểm": "观点",
+            "trùng khít": "重合",
+            "tồn tại": "存在",
+            "mối quan hệ": "关系",
+            "biện chứng": "辩证",
+            "phức tạp": "复杂",
+            "trường hợp": "案例",
+            "đại văn hào": "大文豪",
+            "tiểu thuyết": "小说",
+            "sử thi": "史诗",
+            "Sông Đông êm đềm": "静静的顿河",
+            "minh chứng": "证明",
+            "điển hình": "典型",
+            "giao thoa": "交融",
+            "dư luận": "舆论",
+            "trái chiều": "分歧",
+            "gay gắt": "激烈",
+            "đồng nghiệp": "同事",
+            "Xô viết": "苏联",
+            "cái kết": "结局",
+            "táo bạo": "大胆",
+            "sức mạnh": "力量",
+            "ưu việt": "优越",
+            "chiến thắng": "战胜",
+            "toan tính": "算计",
+            "trao": "授予",
+            "Giải Nobel": "诺贝尔奖",
+            "năm": "年",
+            "sự kiện": "事件",
+            "hiếm hoi": "罕见",
+            "tài năng": "才华",
+            "văn chương": "文学",
+            "vượt lên": "超越",
+            "định kiến": "偏见",
+            "thể chế": "体制",
+            "câu chuyện": "故事",
+            "thuần túy": "纯粹",
+            "thế kỷ": "世纪",
+            "vinh danh": "表彰",
+            "gắn liền": "紧密联系",
+            "tranh cãi": "争议",
+            "tư tưởng": "思想",
+            "đơn cử": "举例",
+            "nhân vật": "人物",
+            "bài Xô viết": "反苏",
+            "làn sóng": "浪潮",
+            "chia rẽ": "分裂",
+            "sâu sắc": "深刻",
+            "xã hội": "社会",
+            "chỉ trích": "批评",
+            "lá thư": "信件",
+            "Hội Nhà văn": "作家协会",
+            "xung đột": "冲突",
+            "luồng": "流派",
+            "đối lập": "对立",
+            "nữ văn sĩ": "女作家",
+            "dấy lên": "引起",
+            "hoài nghi": "怀疑",
+            "khách quan": "客观",
+            "hội đồng": "委员会",
+            "biểu hiện": "表现",
+            "thiếu": "缺乏",
+            "thiện chí": "善意",
+            "Moscow": "莫斯科",
+            "ví dụ": "例子",
+            "khẳng định": "肯定",
+            "lớn": "大",
+            "khó lòng": "难以",
+            "tầm ảnh hưởng": "影响力",
+            "theo đuổi": "追求",
+            "giải thưởng": "奖项",
+            "danh giá": "尊贵",
+            "thế giới": "世界",
+            "khát vọng": "渴望",
+            "chuẩn mực": "标准",
+            "quốc tế": "国际",
+            "tránh khỏi": "避免",
+            "phản chiếu": "反映",
+            "hệ": "体系",
+            "nhân văn": "人文",
+            "định hướng": "导向",
+            "phương Tây": "西方",
+            "xác định": "确定",
+            "vị trí": "地位",
+            "di sản": "遗产",
+            "tinh thần": "精神",
+            "quốc gia": "国家",
+            "toàn vẹn": "完整",
+            "tấm gương": "镜子",
+            "mâu thuẫn": "矛盾",
+            "thời đại": "时代"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Văn học vốn được ví như nhân học, một bộ môn nghệ thuật về con người.",
+                    "Bất kỳ tác phẩm có giá trị nào cũng là sự bày tỏ thái độ của tác giả.",
+                    "Ngay cả khi nhà văn tuyên bố đứng ngoài chính trị, tác phẩm của họ vẫn thể hiện một nhãn quan.",
+                    "Vì văn học là nhân học, nên không thể tách rời khỏi chính trị."
+                ],
+                "correct": "Vì văn học là nhân học, nên không thể tách rời khỏi chính trị."
+            },
+            {
+                "question": "Mikhail Sholokhov được trao Giải Nobel Văn học vào năm nào?",
+                "options": [
+                    "Năm 1967",
+                    "Năm 1965",
+                    "Năm 2015",
+                    "Năm 1920"
+                ],
+                "correct": "Năm 1965"
+            },
+            {
+                "question": "Theo bài đọc, mối quan hệ giữa giá trị nghệ thuật và quan điểm chính trị của tác giả được mô tả như thế nào?",
+                "options": [
+                    "Luôn luôn trùng khít hoàn toàn với nhau.",
+                    "Tách rời và không có bất kỳ liên hệ nào.",
+                    "Tồn tại trong mối quan hệ biện chứng phức tạp.",
+                    "Luôn luôn đối lập và triệt tiêu lẫn nhau."
+                ],
+                "correct": "Tồn tại trong mối quan hệ biện chứng phức tạp."
+            },
+            {
+                "question": "Từ “nhãn quan” trong đoạn thứ nhất có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Tầm nhìn",
+                    "Sở thích",
+                    "Thói quen",
+                    "Cảm xúc"
+                ],
+                "correct": "Tầm nhìn"
+            },
+            {
+                "question": "Vì sao việc trao giải Nobel cho nữ văn sĩ Alexievich vào năm 2015 lại gây ra những hoài nghi?",
+                "options": [
+                    "Vì bà không phải là một nhà văn nổi tiếng.",
+                    "Vì nhiều người cho rằng đó là biểu hiện của thái độ thiếu thiện chí đối với Moscow.",
+                    "Vì tác phẩm của bà bị đánh giá là thiếu giá trị nghệ thuật.",
+                    "Vì bà đã từ chối nhận giải thưởng này."
+                ],
+                "correct": "Vì nhiều người cho rằng đó là biểu hiện của thái độ thiếu thiện chí đối với Moscow."
+            },
+            {
+                "question": "Cụm từ “đứng ngoài chính trị” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Không bao giờ viết về các vấn đề xã hội.",
+                    "Không có bất kỳ quan điểm hay thái độ nào về các vấn đề thời cuộc.",
+                    "Từ bỏ sự nghiệp viết lách để tham gia hoạt động chính trị.",
+                    "Không quan tâm đến các sự kiện diễn ra trong nước."
+                ],
+                "correct": "Không có bất kỳ quan điểm hay thái độ nào về các vấn đề thời cuộc."
+            },
+            {
+                "question": "Qua việc nhắc đến lá thư của Sholokhov gửi Hội Nhà văn năm 1967, tác giả ngầm ý điều gì?",
+                "options": [
+                    "Sự đoàn kết giữa các nhà văn Xô viết.",
+                    "Sự xung đột gay gắt giữa các luồng quan điểm chính trị đối lập.",
+                    "Sự ủng hộ tuyệt đối của Sholokhov dành cho Solzhenitsyn.",
+                    "Sự can thiệp của chính phủ vào các giải thưởng văn học."
+                ],
+                "correct": "Sự xung đột gay gắt giữa các luồng quan điểm chính trị đối lập."
+            },
+            {
+                "question": "Mục đích chính của việc tác giả đưa ra ví dụ về các nhà văn Nga trong bài là gì?",
+                "options": [
+                    "Để ca ngợi các tác phẩm văn học Nga thế kỷ 20.",
+                    "Để chứng minh văn học luôn chịu ảnh hưởng từ các quan điểm chính trị.",
+                    "Để phê phán hội đồng Nobel vì đã trao giải không công bằng.",
+                    "Để giới thiệu tiểu sử của các đại văn hào thế giới."
+                ],
+                "correct": "Để chứng minh văn học luôn chịu ảnh hưởng từ các quan điểm chính trị."
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử của giải Nobel Văn học trong thế kỷ 20.",
+                    "Mối quan hệ không thể tách rời giữa văn học và chính trị.",
+                    "Cuộc tranh luận giữa Sholokhov và Solzhenitsyn.",
+                    "Tầm quan trọng của các giải thưởng văn học quốc tế."
+                ],
+                "correct": "Mối quan hệ không thể tách rời giữa văn học và chính trị."
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Văn học nên hoàn toàn tách biệt khỏi chính trị để đảm bảo tính nghệ thuật.",
+                    "Chính trị là yếu tố duy nhất quyết định giá trị của một tác phẩm văn học.",
+                    "Văn học là tấm gương phản chiếu những mâu thuẫn lớn lao của thời đại.",
+                    "Các giải thưởng văn học quốc tế luôn khách quan và công bằng."
+                ],
+                "correct": "Văn học là tấm gương phản chiếu những mâu thuẫn lớn lao của thời đại."
+            },
+            {
+                "question": "Theo bài đọc, “Sông Đông êm đềm” là minh chứng cho điều gì?",
+                "options": [
+                    "Sự thất bại của nghệ thuật trước chính trị.",
+                    "Sự giao thoa giữa nghệ thuật và chính trị.",
+                    "Sự ủng hộ của phương Tây đối với văn học Xô viết.",
+                    "Sự thiếu hụt về giá trị tư tưởng trong văn học sử thi."
+                ],
+                "correct": "Sự giao thoa giữa nghệ thuật và chính trị."
+            },
+            {
+                "question": "Dựa vào bài đọc, nhận định nào sau đây là đúng về các giải thưởng văn học danh giá?",
+                "options": [
+                    "Chúng hoàn toàn thoát ly khỏi các hệ giá trị chính trị.",
+                    "Chúng luôn phản chiếu các hệ giá trị nhân văn gắn liền với tính định hướng chính trị của phương Tây.",
+                    "Chúng chỉ trao cho những nhà văn không quan tâm đến chính trị.",
+                    "Chúng là thước đo duy nhất để đánh giá tài năng của một nhà văn."
+                ],
+                "correct": "Chúng luôn phản chiếu các hệ giá trị nhân văn gắn liền với tính định hướng chính trị của phương Tây."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Giáo dục – Nền tảng cho sự phát triển của con người và xã hội",
+        "text": "Giáo dục là một trong những yếu tố có ảnh hưởng sâu rộng nhất đến sự phát triển của mỗi cá nhân cũng như sự tiến bộ của toàn xã hội. Mặc dù chưa có một định nghĩa pháp lý thống nhất về khái niệm này, giáo dục thường được hiểu là quá trình truyền đạt, tiếp thu và tích lũy tri thức, kỹ năng, kinh nghiệm cũng như các giá trị đạo đức từ thế hệ này sang thế hệ khác. Không chỉ diễn ra trong nhà trường, giáo dục còn hiện diện trong gia đình, môi trường sống và mọi hoạt động của đời sống hằng ngày.\n\nTừ khi con người hình thành các cộng đồng đầu tiên, nhu cầu truyền lại kinh nghiệm sinh tồn, lao động và ứng xử đã tạo nên những hình thức giáo dục sơ khai. Theo sự phát triển của xã hội, những tri thức được tích lũy ngày càng phong phú và dần được hệ thống hóa thông qua trường học, sách vở cũng như các chương trình đào tạo chính quy. Tuy nhiên, giáo dục không phải là một hệ thống bất biến. Cùng với sự phát triển của khoa học, nhiều quan niệm cũ được điều chỉnh hoặc thay thế bằng những phát hiện mới đã được kiểm chứng. Chính khả năng tiếp thu cái mới và không ngừng hoàn thiện nhận thức đã giúp giáo dục trở thành động lực quan trọng thúc đẩy sự tiến bộ của nhân loại.\n\nĐối với mỗi cá nhân, giáo dục không chỉ giúp nâng cao trình độ chuyên môn mà còn góp phần hình thành tư duy phản biện, khả năng sáng tạo và tinh thần học tập suốt đời. Thông qua quá trình học tập và rèn luyện, con người có điều kiện phát huy năng lực bản thân, thích nghi với những thay đổi của xã hội và tạo dựng nền tảng vững chắc cho sự nghiệp trong tương lai. Bên cạnh việc cung cấp kiến thức, giáo dục còn bồi dưỡng phẩm chất đạo đức, ý thức trách nhiệm và cách ứng xử văn minh, từ đó góp phần hình thành những công dân có ích cho cộng đồng.\n\nCó thể nói, giáo dục luôn song hành với sự phát triển của xã hội. Một nền giáo dục chất lượng không chỉ đào tạo nguồn nhân lực có trình độ mà còn khuyến khích tinh thần đổi mới, thúc đẩy nghiên cứu khoa học và nâng cao năng lực cạnh tranh của quốc gia. Vì vậy, đầu tư cho giáo dục không chỉ là đầu tư cho hiện tại mà còn là sự chuẩn bị lâu dài cho tương lai. Mỗi cá nhân, thông qua việc không ngừng học hỏi, chia sẻ tri thức và xây dựng môi trường học tập tích cực, đều có thể góp phần vào sự phát triển bền vững của nền giáo dục và của đất nước.",
+        "dictionary": {
+            "Giáo dục": "教育",
+            "yếu tố": "因素",
+            "ảnh hưởng": "影响",
+            "sâu rộng": "深远",
+            "phát triển": "发展",
+            "cá nhân": "个人",
+            "tiến bộ": "进步",
+            "xã hội": "社会",
+            "định nghĩa": "定义",
+            "pháp lý": "法律",
+            "thống nhất": "统一",
+            "khái niệm": "概念",
+            "hiểu": "理解",
+            "quá trình": "过程",
+            "truyền đạt": "传达",
+            "tiếp thu": "吸收",
+            "tích lũy": "积累",
+            "tri thức": "知识",
+            "kỹ năng": "技能",
+            "kinh nghiệm": "经验",
+            "giá trị": "价值",
+            "đạo đức": "道德",
+            "thế hệ": "世代",
+            "diễn ra": "发生",
+            "nhà trường": "学校",
+            "hiện diện": "存在",
+            "gia đình": "家庭",
+            "môi trường": "环境",
+            "sống": "生活",
+            "hoạt động": "活动",
+            "đời sống": "生活",
+            "hằng ngày": "日常",
+            "con người": "人类",
+            "hình thành": "形成",
+            "cộng đồng": "社区",
+            "nhu cầu": "需求",
+            "truyền lại": "传承",
+            "sinh tồn": "生存",
+            "lao động": "劳动",
+            "ứng xử": "处事",
+            "tạo nên": "创造",
+            "hình thức": "形式",
+            "sơ khai": "原始",
+            "phong phú": "丰富",
+            "hệ thống hóa": "系统化",
+            "trường học": "学校",
+            "sách vở": "书籍",
+            "chương trình": "课程",
+            "đào tạo": "培训",
+            "chính quy": "正规",
+            "bất biến": "不变",
+            "khoa học": "科学",
+            "quan niệm": "观念",
+            "cũ": "旧",
+            "điều chỉnh": "调整",
+            "thay thế": "替代",
+            "phát hiện": "发现",
+            "mới": "新",
+            "kiểm chứng": "验证",
+            "khả năng": "能力",
+            "hoàn thiện": "完善",
+            "nhận thức": "认知",
+            "động lực": "动力",
+            "quan trọng": "重要",
+            "thúc đẩy": "推动",
+            "nhân loại": "人类",
+            "nâng cao": "提高",
+            "trình độ": "水平",
+            "chuyên môn": "专业",
+            "góp phần": "贡献",
+            "tư duy": "思维",
+            "phản biện": "批判",
+            "sáng tạo": "创造",
+            "tinh thần": "精神",
+            "học tập": "学习",
+            "suốt đời": "终身",
+            "rèn luyện": "锻炼",
+            "điều kiện": "条件",
+            "phát huy": "发挥",
+            "năng lực": "能力",
+            "bản thân": "自身",
+            "thích nghi": "适应",
+            "thay đổi": "改变",
+            "tạo dựng": "建立",
+            "nền tảng": "基础",
+            "vững chắc": "稳固",
+            "sự nghiệp": "事业",
+            "tương lai": "未来",
+            "cung cấp": "提供",
+            "kiến thức": "知识",
+            "bồi dưỡng": "培养",
+            "phẩm chất": "品质",
+            "ý thức": "意识",
+            "trách nhiệm": "责任",
+            "văn minh": "文明",
+            "công dân": "公民",
+            "ích": "益处",
+            "song hành": "并行",
+            "chất lượng": "质量",
+            "nguồn nhân lực": "人力资源",
+            "khuyến khích": "鼓励",
+            "đổi mới": "创新",
+            "nghiên cứu": "研究",
+            "cạnh tranh": "竞争",
+            "quốc gia": "国家",
+            "đầu tư": "投资",
+            "hiện tại": "现在",
+            "chuẩn bị": "准备",
+            "lâu dài": "长期",
+            "học hỏi": "学习",
+            "chia sẻ": "分享",
+            "xây dựng": "建设",
+            "tích cực": "积极",
+            "bền vững": "可持续",
+            "đất nước": "国家"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Giáo dục là yếu tố ảnh hưởng sâu rộng đến sự phát triển của cá nhân.",
+                    "Giáo dục không chỉ diễn ra trong nhà trường mà còn ở trong gia đình.",
+                    "Vì giáo dục là động lực thúc đẩy sự tiến bộ nên con người cần học tập.",
+                    "Giáo dục không phải là một hệ thống bất biến, bởi vì nó luôn thay đổi."
+                ],
+                "correct": "Giáo dục không phải là một hệ thống bất biến, bởi vì nó luôn thay đổi."
+            },
+            {
+                "question": "Theo bài đọc, giáo dục sơ khai xuất hiện từ khi nào?",
+                "options": [
+                    "Khi con người bắt đầu biết sử dụng sách vở.",
+                    "Khi các trường học chính quy được thành lập.",
+                    "Khi con người hình thành các cộng đồng đầu tiên.",
+                    "Khi khoa học kỹ thuật bắt đầu phát triển."
+                ],
+                "correct": "Khi con người hình thành các cộng đồng đầu tiên."
+            },
+            {
+                "question": "Theo văn bản, giáo dục không chỉ diễn ra ở đâu?",
+                "options": [
+                    "Trong nhà trường",
+                    "Trong gia đình",
+                    "Trong môi trường sống",
+                    "Trong các thư viện quốc gia"
+                ],
+                "correct": "Trong các thư viện quốc gia"
+            },
+            {
+                "question": "Từ “hệ thống hóa” trong đoạn hai có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Sắp xếp có tổ chức",
+                    "Phân tán rộng rãi",
+                    "Loại bỏ hoàn toàn",
+                    "Thay đổi liên tục"
+                ],
+                "correct": "Sắp xếp có tổ chức"
+            },
+            {
+                "question": "Vì sao giáo dục được coi là động lực thúc đẩy sự tiến bộ của nhân loại?",
+                "options": [
+                    "Vì nó là một hệ thống bất biến không bao giờ thay đổi.",
+                    "Vì nó giúp con người tiếp thu cái mới và không ngừng hoàn thiện nhận thức.",
+                    "Vì nó chỉ tập trung vào việc truyền đạt kiến thức chuyên môn.",
+                    "Vì nó giúp con người không cần phải lao động vất vả."
+                ],
+                "correct": "Vì nó giúp con người tiếp thu cái mới và không ngừng hoàn thiện nhận thức."
+            },
+            {
+                "question": "Cụm từ “song hành” trong câu “giáo dục luôn song hành với sự phát triển của xã hội” có hàm ý gì?",
+                "options": [
+                    "Giáo dục và xã hội phát triển độc lập với nhau.",
+                    "Giáo dục đi trước và xã hội đi sau.",
+                    "Giáo dục và xã hội cùng tồn tại và phát triển cùng lúc.",
+                    "Giáo dục là yếu tố duy nhất quyết định sự phát triển của xã hội."
+                ],
+                "correct": "Giáo dục và xã hội cùng tồn tại và phát triển cùng lúc."
+            },
+            {
+                "question": "Qua bài đọc, tác giả thể hiện thái độ như thế nào đối với việc đầu tư cho giáo dục?",
+                "options": [
+                    "Thờ ơ, coi đó là việc của nhà nước.",
+                    "Hoài nghi về hiệu quả của giáo dục.",
+                    "Ủng hộ và coi đó là sự chuẩn bị lâu dài cho tương lai.",
+                    "Phản đối vì cho rằng giáo dục không quan trọng bằng kinh tế."
+                ],
+                "correct": "Ủng hộ và coi đó là sự chuẩn bị lâu dài cho tương lai."
+            },
+            {
+                "question": "Mục đích chính của việc tác giả nhắc đến “tư duy phản biện” và “khả năng sáng tạo” là gì?",
+                "options": [
+                    "Để chứng minh giáo dục giúp nâng cao năng lực cá nhân.",
+                    "Để khẳng định giáo dục chỉ dành cho những người thông minh.",
+                    "Để phủ nhận vai trò của kiến thức chuyên môn.",
+                    "Để liệt kê các môn học cần có trong nhà trường."
+                ],
+                "correct": "Để chứng minh giáo dục giúp nâng cao năng lực cá nhân."
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử hình thành của các trường học trên thế giới.",
+                    "Vai trò và tầm quan trọng của giáo dục đối với cá nhân và xã hội.",
+                    "Cách thức để trở thành một công dân có ích cho cộng đồng.",
+                    "Sự khác biệt giữa giáo dục chính quy và giáo dục không chính quy."
+                ],
+                "correct": "Vai trò và tầm quan trọng của giáo dục đối với cá nhân và xã hội."
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả về giáo dục là gì?",
+                "options": [
+                    "Giáo dục là một quá trình tĩnh tại và cứng nhắc.",
+                    "Giáo dục là một quá trình liên tục, linh hoạt và có vai trò then chốt.",
+                    "Giáo dục chỉ cần thiết trong giai đoạn đầu đời của con người.",
+                    "Giáo dục là gánh nặng đối với sự phát triển của quốc gia."
+                ],
+                "correct": "Giáo dục là một quá trình liên tục, linh hoạt và có vai trò then chốt."
+            },
+            {
+                "question": "Theo bài đọc, giáo dục giúp con người hình thành điều gì ngoài kiến thức chuyên môn?",
+                "options": [
+                    "Khả năng làm giàu nhanh chóng.",
+                    "Phẩm chất đạo đức và ý thức trách nhiệm.",
+                    "Kỹ năng thống trị người khác.",
+                    "Sự phụ thuộc vào các chương trình đào tạo."
+                ],
+                "correct": "Phẩm chất đạo đức và ý thức trách nhiệm."
+            },
+            {
+                "question": "Nếu một xã hội không chú trọng vào giáo dục, theo logic của bài đọc, điều gì sẽ xảy ra?",
+                "options": [
+                    "Xã hội đó sẽ phát triển bền vững hơn.",
+                    "Năng lực cạnh tranh của quốc gia sẽ bị hạn chế.",
+                    "Con người sẽ sáng tạo hơn vì không bị gò bó.",
+                    "Các giá trị đạo đức sẽ được bảo tồn tốt hơn."
+                ],
+                "correct": "Năng lực cạnh tranh của quốc gia sẽ bị hạn chế."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Vai trò và phương pháp rèn luyện kỹ năng ra quyết định trong sự nghiệp và cuộc sống",
+        "text": "Kỹ năng ra quyết định một cách nhanh chóng, chính xác dựa trên tình hình thực tế và dự báo tương lai được xem là chìa khóa then chốt giúp cá nhân đạt được những bước tiến đột phá, không chỉ trong sự nghiệp mà còn trong mọi khía cạnh của cuộc sống. Dù đang ở giai đoạn học tập hay đã chính thức tham gia thị trường lao động, mỗi người chắc chắn đều từng đối mặt với vô vàn lựa chọn quan trọng. Vào những thời khắc mang tính quyết định đó, cơ sở nào đã định hướng cho tư duy của bạn? Liệu đó là sự thôi thúc từ niềm đam mê cá nhân, áp lực từ ảnh hưởng của người xung quanh, hay đơn thuần là những suy nghĩ mang tính trực quan? Nếu thực hiện tốt, bạn sẽ tiến gần hơn đến ngưỡng cửa thành công; ngược lại, những lựa chọn sai lầm có thể dẫn đến sự thất bại đáng tiếc. Chính vì lý do đó, các chuyên gia luôn nhấn mạnh rằng kỹ năng ra quyết định đóng vai trò cực kỳ trọng yếu.\n\nTrước hết, bạn cần giữ vững bản lĩnh để không dễ dàng bị tác động bởi ý kiến từ người ngoài. Dẫu việc tham khảo quan điểm của những người đi trước là cần thiết, song hãy nhớ rằng lời khuyên chỉ nên dừng lại ở mức độ tham vấn chứ không nên trở thành sự lệ thuộc. Nếu bạn sở hữu năng khiếu và niềm đam mê với một ngành nghề cụ thể, hãy kiên trì theo đuổi thay vì từ bỏ chỉ vì những định kiến xã hội. Mọi công việc đều tiềm ẩn những thách thức riêng, và chỉ có đam mê mới là động lực giúp bạn vượt qua nghịch cảnh.\n\nBên cạnh đó, việc biết rõ thời điểm nào cần tìm kiếm sự hỗ trợ cũng là một nghệ thuật. Cuộc sống là một chuỗi các quyết định liên đới, nơi hành động phía trước sẽ định hình kết quả phía sau. Do đó, bạn cần phân định rõ ràng giữa những việc có thể tự mình làm chủ và những vấn đề cần đến sự tư vấn từ những người thực sự tin cậy. Khi đã đưa ra quyết định, sự kiên định là yếu tố tiên quyết. Đừng vội vàng thay đổi lập trường chỉ vì những lời bàn tán xung quanh, bởi cuộc đời bạn là do chính bạn định đoạt. Cuối cùng, hãy tập thói quen liệt kê các phương án và lý do kèm theo. Việc viết ra giấy giúp bạn có cái nhìn tổng quan, từ đó sử dụng phương pháp loại trừ để tìm ra đáp án tối ưu nhất. Rèn luyện kỹ năng này một cách bài bản sẽ giúp bạn tự tin hơn khi đối mặt với bất kỳ thử thách nào trong tương lai.",
+        "dictionary": {
+            "kỹ năng": "技能",
+            "quyết định": "决定",
+            "nhanh chóng": "迅速",
+            "chính xác": "准确",
+            "tình hình": "情况",
+            "thực tế": "实际",
+            "dự báo": "预测",
+            "tương lai": "未来",
+            "chìa khóa": "关键",
+            "then chốt": "核心",
+            "cá nhân": "个人",
+            "bước tiến": "进步",
+            "đột phá": "突破",
+            "sự nghiệp": "事业",
+            "khía cạnh": "方面",
+            "cuộc sống": "生活",
+            "giai đoạn": "阶段",
+            "học tập": "学习",
+            "thị trường": "市场",
+            "lao động": "劳动",
+            "người": "人",
+            "lựa chọn": "选择",
+            "quan trọng": "重要",
+            "thời khắc": "时刻",
+            "cơ sở": "基础",
+            "định hướng": "导向",
+            "tư duy": "思维",
+            "thôi thúc": "促使",
+            "niềm đam mê": "热情",
+            "áp lực": "压力",
+            "ảnh hưởng": "影响",
+            "suy nghĩ": "想法",
+            "trực quan": "直观",
+            "thực hiện": "执行",
+            "thành công": "成功",
+            "sai lầm": "错误",
+            "thất bại": "失败",
+            "đáng tiếc": "遗憾",
+            "lý do": "理由",
+            "chuyên gia": "专家",
+            "nhấn mạnh": "强调",
+            "vai trò": "作用",
+            "trọng yếu": "重要",
+            "bản lĩnh": "胆识",
+            "tác động": "影响",
+            "ý kiến": "意见",
+            "quan điểm": "观点",
+            "cần thiết": "必要",
+            "lời khuyên": "建议",
+            "tham vấn": "咨询",
+            "lệ thuộc": "依赖",
+            "năng khiếu": "天赋",
+            "ngành nghề": "职业",
+            "kiên trì": "坚持",
+            "từ bỏ": "放弃",
+            "định kiến": "偏见",
+            "xã hội": "社会",
+            "công việc": "工作",
+            "thách thức": "挑战",
+            "động lực": "动力",
+            "nghịch cảnh": "逆境",
+            "thời điểm": "时机",
+            "hỗ trợ": "支持",
+            "nghệ thuật": "艺术",
+            "chuỗi": "系列",
+            "liên đới": "关联",
+            "hành động": "行动",
+            "kết quả": "结果",
+            "phân định": "区分",
+            "vấn đề": "问题",
+            "tư vấn": "咨询",
+            "tin cậy": "可靠",
+            "kiên định": "坚定",
+            "yếu tố": "因素",
+            "tiên quyết": "前提",
+            "vội vàng": "匆忙",
+            "thay đổi": "改变",
+            "lập trường": "立场",
+            "bàn tán": "议论",
+            "định đoạt": "决定",
+            "thói quen": "习惯",
+            "liệt kê": "列出",
+            "phương án": "方案",
+            "giấy": "纸",
+            "tổng quan": "概览",
+            "phương pháp": "方法",
+            "loại trừ": "排除",
+            "đáp án": "答案",
+            "tối ưu": "最优",
+            "rèn luyện": "锻炼",
+            "bài bản": "系统",
+            "tự tin": "自信"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Kỹ năng ra quyết định giúp cá nhân đạt được những bước tiến đột phá.",
+                    "Mỗi người chắc chắn đều từng đối mặt với vô vàn lựa chọn quan trọng.",
+                    "Sự kiên định là yếu tố tiên quyết khi đã đưa ra quyết định.",
+                    "Vì kỹ năng ra quyết định quan trọng, nên các chuyên gia nhấn mạnh."
+                ],
+                "correct": "Vì kỹ năng ra quyết định quan trọng, nên các chuyên gia nhấn mạnh."
+            },
+            {
+                "question": "Theo bài đọc, yếu tố nào được xem là chìa khóa then chốt giúp cá nhân đạt được những bước tiến đột phá?",
+                "options": [
+                    "Sự hỗ trợ từ những người đi trước",
+                    "Kỹ năng ra quyết định nhanh chóng và chính xác",
+                    "Việc liệt kê các phương án ra giấy",
+                    "Khả năng lắng nghe ý kiến từ người xung quanh"
+                ],
+                "correct": "Kỹ năng ra quyết định nhanh chóng và chính xác"
+            },
+            {
+                "question": "Theo tác giả, đâu là động lực giúp con người vượt qua nghịch cảnh trong công việc?",
+                "options": [
+                    "Sự tư vấn từ những người tin cậy",
+                    "Áp lực từ những định kiến xã hội",
+                    "Niềm đam mê với công việc đó",
+                    "Lời bàn tán từ những người xung quanh"
+                ],
+                "correct": "Niềm đam mê với công việc đó"
+            },
+            {
+                "question": "Trong đoạn thứ hai, từ “lệ thuộc” có thể được thay thế bằng từ nào dưới đây mà không làm thay đổi nghĩa của câu?",
+                "options": [
+                    "Phụ thuộc",
+                    "Độc lập",
+                    "Tham khảo",
+                    "Học hỏi"
+                ],
+                "correct": "Phụ thuộc"
+            },
+            {
+                "question": "Vì sao tác giả khuyên người đọc nên liệt kê các phương án và lý do ra giấy?",
+                "options": [
+                    "Để ghi nhớ lâu hơn những lựa chọn của bản thân",
+                    "Để có cái nhìn tổng quan và tìm ra đáp án tối ưu",
+                    "Để chứng minh với người khác về quyết định của mình",
+                    "Để tránh bị người ngoài tác động vào tư duy"
+                ],
+                "correct": "Để có cái nhìn tổng quan và tìm ra đáp án tối ưu"
+            },
+            {
+                "question": "Cụm từ “ngưỡng cửa thành công” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Một địa điểm vật lý cụ thể",
+                    "Sự khởi đầu của một công việc mới",
+                    "Giai đoạn sắp đạt được thành tựu",
+                    "Một cánh cửa dẫn vào ngôi nhà"
+                ],
+                "correct": "Giai đoạn sắp đạt được thành tựu"
+            },
+            {
+                "question": "Thái độ của tác giả đối với việc tham khảo ý kiến người đi trước là gì?",
+                "options": [
+                    "Phản đối hoàn toàn vì cho rằng đó là sự lệ thuộc",
+                    "Khuyến khích vì đó là cách duy nhất để thành công",
+                    "Ủng hộ nhưng cần giữ vững bản lĩnh cá nhân",
+                    "Thờ ơ vì cho rằng tự quyết định mới là quan trọng nhất"
+                ],
+                "correct": "Ủng hộ nhưng cần giữ vững bản lĩnh cá nhân"
+            },
+            {
+                "question": "Mục đích chính của việc tác giả nhấn mạnh vào “sự kiên định” sau khi đưa ra quyết định là gì?",
+                "options": [
+                    "Để khẳng định quyền tự quyết của mỗi cá nhân",
+                    "Để chứng minh rằng người khác luôn luôn sai",
+                    "Để ép buộc người đọc không được thay đổi ý kiến",
+                    "Để bác bỏ vai trò của việc tham vấn người khác"
+                ],
+                "correct": "Để khẳng định quyền tự quyết của mỗi cá nhân"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Tầm quan trọng của việc chọn đúng nghề nghiệp",
+                    "Cách vượt qua nghịch cảnh trong thị trường lao động",
+                    "Tầm quan trọng và phương pháp rèn luyện kỹ năng ra quyết định",
+                    "Lợi ích của việc viết ra giấy các dự định tương lai"
+                ],
+                "correct": "Tầm quan trọng và phương pháp rèn luyện kỹ năng ra quyết định"
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả trong bài viết là gì?",
+                "options": [
+                    "Con người nên luôn luôn nghe theo lời khuyên của người đi trước",
+                    "Mỗi cá nhân cần chủ động, bản lĩnh và có phương pháp trong việc ra quyết định",
+                    "Thành công là kết quả của sự may mắn và tác động từ bên ngoài",
+                    "Việc ra quyết định là một quá trình đơn giản và không cần rèn luyện"
+                ],
+                "correct": "Mỗi cá nhân cần chủ động, bản lĩnh và có phương pháp trong việc ra quyết định"
+            },
+            {
+                "question": "Theo bài đọc, hành động nào giúp bạn phân định rõ giữa việc tự chủ và việc cần tư vấn?",
+                "options": [
+                    "Biết rõ thời điểm cần tìm kiếm sự hỗ trợ",
+                    "Liệt kê tất cả các lý do ra giấy",
+                    "Từ bỏ những công việc có nhiều thách thức",
+                    "Lắng nghe mọi lời bàn tán xung quanh"
+                ],
+                "correct": "Biết rõ thời điểm cần tìm kiếm sự hỗ trợ"
+            },
+            {
+                "question": "Nếu một người luôn thay đổi quyết định vì lời bàn tán, theo bài đọc, người đó đang thiếu yếu tố nào?",
+                "options": [
+                    "Sự sáng tạo",
+                    "Sự kiên định",
+                    "Sự thông minh",
+                    "Sự may mắn"
+                ],
+                "correct": "Sự kiên định"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Những góc nhìn tâm lý học về hành vi con người",
+        "text": "Hiểu rõ bản chất hành vi con người là một hành trình phức tạp nhưng đầy thú vị. Nhiều người tin rằng thái độ định hình hành vi, song thực tế, hành vi cũng có thể thay đổi thái độ thông qua cơ chế không hòa hợp nhận thức. Khi hành động trái ngược với niềm tin, con người thường tự điều chỉnh suy nghĩ để giảm bớt sự căng thẳng tâm lý. Do đó, muốn trở thành mẫu người lý tưởng, cách hiệu quả nhất là bắt đầu bằng việc thay đổi hành động thay vì chỉ dừng lại ở tư duy.\n\nBên cạnh đó, sự không nhất quán trong quan điểm cá nhân là một phần tất yếu của bản chất con người. Việc suy nghĩ logic không đồng nghĩa với việc chúng ta luôn hành động nhất quán trong mọi tình huống. Thay vì vội vã chỉ trích người khác là vô lý, chúng ta nên học cách chấp nhận sự đa chiều trong góc nhìn của mỗi cá nhân. Đồng thời, cần lưu ý rằng hầu hết các hành vi đều là kết quả từ sự tương tác phức tạp của nhiều yếu tố, thay vì bị chi phối bởi duy nhất một nguyên nhân đơn lẻ. Việc nhận diện được sự đa nguyên này sẽ giúp chúng ta có cái nhìn sâu sắc và thấu đáo hơn khi đánh giá sự việc.\n\nVề khả năng đọc vị người khác, nhiều người lầm tưởng mình có thể thấu hiểu suy nghĩ qua ngôn ngữ cơ thể. Tuy nhiên, khoa học chứng minh rằng việc giải mã cử chỉ của người lạ có độ chính xác rất thấp. Những gì chúng ta gọi là \"đọc vị\" thực chất thường chỉ là sự thấu hiểu dựa trên mối quan hệ thân thiết sẵn có. Vì vậy, thay vì suy đoán mơ hồ, hãy lựa chọn giao tiếp trực tiếp để đạt được sự minh bạch.\n\nTrong quản trị hành vi, các kỹ thuật thưởng và phạt đóng vai trò quan trọng, nhưng cần sự linh hoạt để tránh tình trạng \"lờn\" tác động. Đặc biệt, trạng thái cảm xúc đóng vai trò quyết định đến khả năng tư duy. Khi lo lắng hoặc hưng phấn cực độ, bộ não con người dễ rơi vào trạng thái mất kiểm soát, dẫn đến những quyết định sai lầm. Do đó, nguyên tắc \"không hứa khi vui, không quyết định khi buồn\" là kim chỉ nam để duy trì sự sáng suốt. Cuối cùng, chúng ta cần tỉnh táo trước \"hiệu ứng diễn viên - người quan sát\", nơi con người có xu hướng tự bao biện cho bản thân nhưng lại khắt khe với người khác. Thấu hiểu những cơ chế tâm lý này không chỉ giúp hoàn thiện bản thân mà còn xây dựng những mối quan hệ hài hòa, bền vững hơn trong cuộc sống.",
+        "dictionary": {
+            "bản chất": "本质",
+            "hành vi": "行为",
+            "con người": "人类",
+            "hành trình": "旅程",
+            "phức tạp": "复杂",
+            "thú vị": "有趣",
+            "thái độ": "态度",
+            "định hình": "塑造",
+            "thực tế": "现实",
+            "thay đổi": "改变",
+            "cơ chế": "机制",
+            "hòa hợp": "和谐",
+            "nhận thức": "认知",
+            "hành động": "行动",
+            "trái ngược": "相反",
+            "niềm tin": "信念",
+            "điều chỉnh": "调整",
+            "suy nghĩ": "思考",
+            "giảm bớt": "减少",
+            "căng thẳng": "紧张",
+            "tâm lý": "心理",
+            "mẫu người": "榜样",
+            "lý tưởng": "理想",
+            "hiệu quả": "有效",
+            "tư duy": "思维",
+            "nhất quán": "一致",
+            "quan điểm": "观点",
+            "cá nhân": "个人",
+            "tất yếu": "必然",
+            "logic": "逻辑",
+            "tình huống": "情况",
+            "vội vã": "匆忙",
+            "chỉ trích": "批评",
+            "vô lý": "无理",
+            "chấp nhận": "接受",
+            "đa chiều": "多维",
+            "góc nhìn": "视角",
+            "lưu ý": "注意",
+            "kết quả": "结果",
+            "tương tác": "互动",
+            "yếu tố": "因素",
+            "chi phối": "支配",
+            "nguyên nhân": "原因",
+            "đơn lẻ": "单一",
+            "nhận diện": "识别",
+            "đa nguyên": "多元",
+            "sâu sắc": "深刻",
+            "thấu đáo": "透彻",
+            "đánh giá": "评价",
+            "sự việc": "事物",
+            "khả năng": "能力",
+            "đọc vị": "解读",
+            "lầm tưởng": "误解",
+            "thấu hiểu": "理解",
+            "ngôn ngữ": "语言",
+            "cơ thể": "身体",
+            "khoa học": "科学",
+            "chứng minh": "证明",
+            "giải mã": "解码",
+            "cử chỉ": "手势",
+            "người lạ": "陌生人",
+            "độ chính xác": "准确度",
+            "thấp": "低",
+            "mối quan hệ": "关系",
+            "thân thiết": "亲密",
+            "suy đoán": "推测",
+            "mơ hồ": "模糊",
+            "lựa chọn": "选择",
+            "giao tiếp": "沟通",
+            "trực tiếp": "直接",
+            "minh bạch": "透明",
+            "quản trị": "管理",
+            "kỹ thuật": "技术",
+            "thưởng": "奖励",
+            "phạt": "惩罚",
+            "vai trò": "作用",
+            "quan trọng": "重要",
+            "linh hoạt": "灵活",
+            "tránh": "避免",
+            "tình trạng": "状态",
+            "lờn": "麻木",
+            "tác động": "影响",
+            "trạng thái": "状态",
+            "cảm xúc": "情绪",
+            "quyết định": "决定",
+            "lo lắng": "焦虑",
+            "hưng phấn": "兴奋",
+            "cực độ": "极端",
+            "bộ não": "大脑",
+            "mất kiểm soát": "失控",
+            "sai lầm": "错误",
+            "nguyên tắc": "原则",
+            "vui": "快乐",
+            "buồn": "悲伤",
+            "kim chỉ nam": "指南",
+            "duy trì": "维持",
+            "sáng suốt": "明智",
+            "tỉnh táo": "清醒",
+            "hiệu ứng": "效应",
+            "diễn viên": "演员",
+            "người quan sát": "观察者",
+            "xu hướng": "倾向",
+            "bao biện": "辩解",
+            "bản thân": "自己",
+            "khắt khe": "严苛",
+            "hoàn thiện": "完善",
+            "xây dựng": "建立",
+            "hài hòa": "和谐",
+            "bền vững": "可持续",
+            "cuộc sống": "生活"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Hành vi con người là một hành trình phức tạp.",
+                    "Thay đổi hành động thay vì chỉ dừng lại ở tư duy.",
+                    "Sự không nhất quán trong quan điểm cá nhân là một phần tất yếu.",
+                    "Việc nhận diện được sự đa nguyên giúp chúng ta có cái nhìn sâu sắc."
+                ],
+                "correct": "Thay đổi hành động thay vì chỉ dừng lại ở tư duy."
+            },
+            {
+                "question": "Theo bài đọc, khi nào con người thường tự điều chỉnh suy nghĩ của mình?",
+                "options": [
+                    "Khi nhận được phần thưởng từ người khác.",
+                    "Khi hành động trái ngược với niềm tin.",
+                    "Khi cảm thấy hưng phấn cực độ.",
+                    "Khi muốn đánh giá người khác một cách thấu đáo."
+                ],
+                "correct": "Khi hành động trái ngược với niềm tin."
+            },
+            {
+                "question": "Trạng thái nào của con người được bài viết cảnh báo là dễ dẫn đến quyết định sai lầm?",
+                "options": [
+                    "Trạng thái bình tĩnh và sáng suốt.",
+                    "Trạng thái lo lắng hoặc hưng phấn cực độ.",
+                    "Trạng thái hoài nghi về bản thân.",
+                    "Trạng thái không nhất quán trong quan điểm."
+                ],
+                "correct": "Trạng thái lo lắng hoặc hưng phấn cực độ."
+            },
+            {
+                "question": "Từ “kim chỉ nam” trong đoạn cuối có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Lời cảnh báo",
+                    "Sự lựa chọn",
+                    "Nguyên tắc chỉ đạo",
+                    "Thói quen hàng ngày"
+                ],
+                "correct": "Nguyên tắc chỉ đạo"
+            },
+            {
+                "question": "Vì sao tác giả cho rằng chúng ta nên học cách chấp nhận sự đa chiều trong góc nhìn của mỗi cá nhân?",
+                "options": [
+                    "Vì suy nghĩ logic không đồng nghĩa với việc hành động nhất quán trong mọi tình huống.",
+                    "Vì con người không bao giờ có thể thay đổi được tư duy của mình.",
+                    "Vì sự đa chiều giúp chúng ta dễ dàng thao túng người khác.",
+                    "Vì mọi hành vi đều bị chi phối bởi một nguyên nhân duy nhất."
+                ],
+                "correct": "Vì suy nghĩ logic không đồng nghĩa với việc hành động nhất quán trong mọi tình huống."
+            },
+            {
+                "question": "Cụm từ “lờn” tác động trong bài đọc có hàm ý là gì?",
+                "options": [
+                    "Sự thích nghi quá mức khiến các biện pháp thưởng phạt mất đi hiệu quả.",
+                    "Sự phản kháng mạnh mẽ của con người trước các quy tắc.",
+                    "Sự thiếu linh hoạt trong việc áp dụng các hình phạt.",
+                    "Sự sợ hãi của con người khi đối diện với các kỹ thuật quản trị."
+                ],
+                "correct": "Sự thích nghi quá mức khiến các biện pháp thưởng phạt mất đi hiệu quả."
+            },
+            {
+                "question": "Qua việc nhắc đến “hiệu ứng diễn viên - người quan sát”, tác giả muốn cảnh báo điều gì về thái độ của con người?",
+                "options": [
+                    "Con người luôn khách quan khi đánh giá hành động của người khác.",
+                    "Con người có xu hướng tự bao biện cho bản thân nhưng lại khắt khe với người khác.",
+                    "Con người thường không quan tâm đến cảm xúc của những người xung quanh.",
+                    "Con người luôn nhìn nhận lỗi lầm của bản thân nghiêm trọng hơn người khác."
+                ],
+                "correct": "Con người có xu hướng tự bao biện cho bản thân nhưng lại khắt khe với người khác."
+            },
+            {
+                "question": "Mục đích chính của việc tác giả đưa ra nguyên tắc “không hứa khi vui, không quyết định khi buồn” là gì?",
+                "options": [
+                    "Để chứng minh cảm xúc không ảnh hưởng đến tư duy.",
+                    "Để khuyến khích con người sống thu mình và ít giao tiếp.",
+                    "Để giúp con người duy trì sự sáng suốt trong các quyết định.",
+                    "Để phủ nhận vai trò của cảm xúc trong cuộc sống."
+                ],
+                "correct": "Để giúp con người duy trì sự sáng suốt trong các quyết định."
+            },
+            {
+                "question": "Nội dung chính của bài đọc là gì?",
+                "options": [
+                    "Hướng dẫn cách đọc vị ngôn ngữ cơ thể của người khác.",
+                    "Phân tích các cơ chế tâm lý và hành vi để hoàn thiện bản thân.",
+                    "Giải thích lý do tại sao con người thường xuyên thay đổi thái độ.",
+                    "Đề xuất các phương pháp thưởng phạt trong quản trị nhân sự."
+                ],
+                "correct": "Phân tích các cơ chế tâm lý và hành vi để hoàn thiện bản thân."
+            },
+            {
+                "question": "Quan điểm tổng quát của tác giả về việc “đọc vị” người khác qua ngôn ngữ cơ thể là gì?",
+                "options": [
+                    "Đó là một kỹ năng khoa học có độ chính xác rất cao.",
+                    "Đó là cách tốt nhất để thấu hiểu người lạ.",
+                    "Đó là một sự lầm tưởng vì độ chính xác thực tế rất thấp.",
+                    "Đó là hành động cần được khuyến khích để tăng sự minh bạch."
+                ],
+                "correct": "Đó là một sự lầm tưởng vì độ chính xác thực tế rất thấp."
+            },
+            {
+                "question": "Trong bài đọc, từ “đa nguyên” được dùng để chỉ điều gì?",
+                "options": [
+                    "Sự phức tạp của các yếu tố tác động đến hành vi.",
+                    "Sự đơn giản trong tư duy của con người.",
+                    "Sự đồng nhất trong cách giải quyết vấn đề.",
+                    "Sự thiếu logic trong các quyết định cá nhân."
+                ],
+                "correct": "Sự phức tạp của các yếu tố tác động đến hành vi."
+            },
+            {
+                "question": "Theo tác giả, cách hiệu quả nhất để trở thành mẫu người lý tưởng là gì?",
+                "options": [
+                    "Chỉ tập trung vào việc thay đổi tư duy.",
+                    "Bắt đầu bằng việc thay đổi hành động.",
+                    "Luôn luôn suy đoán mơ hồ về người khác.",
+                    "Tránh xa các tương tác xã hội phức tạp."
+                ],
+                "correct": "Bắt đầu bằng việc thay đổi hành động."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    }
+]
