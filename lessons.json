@@ -1218,5 +1218,519 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Những thách thức đạo đức và triển vọng đột phá trong công nghệ chỉnh sửa gen",
+        "text": "Cuối năm 2018, cộng đồng khoa học quốc tế đã trải qua một cú sốc lớn khi nhà nghiên cứu Trung Quốc Hạ Kiến Khuê tuyên bố ứng dụng thành công công nghệ chỉnh sửa gen nhằm tạo ra cặp song sinh có khả năng miễn dịch với virus HIV. Sự kiện này không chỉ làm dấy lên làn sóng tranh cãi dữ dội về các chuẩn mực luân lý trong y sinh học mà còn đặt ra những dấu hỏi lớn về trách nhiệm của con người khi can thiệp vào mã gen tự nhiên. Chính quyền Trung Quốc đã nhanh chóng coi đây là một vụ bê bối y tế nghiêm trọng, đồng thời thắt chặt các quy định pháp lý liên quan. Song song đó, Tổ chức Y tế Thế giới (WHO) cũng lên án hành vi này, khẳng định việc sử dụng kỹ thuật di truyền cho mục đích sinh sản là sự thiếu trách nhiệm đối với tương lai nhân loại.\n\nDù tiềm năng của công nghệ chỉnh sửa gen là rất lớn, các chuyên gia vẫn cảnh báo về những rủi ro tiềm ẩn. Ông Feng Zhang, đồng phát minh công nghệ CRISPR, nhấn mạnh rằng kỹ thuật này hiện còn tồn tại nhiều hạn chế, đặc biệt là nguy cơ gây ra các đột biến ngoài mục tiêu, dẫn đến tình trạng mất ổn định hệ gen. Xét dưới góc độ đạo đức, việc tùy ý chỉnh sửa gen có thể tạo ra những bất bình đẳng xã hội sâu sắc khi con người có khả năng can thiệp để tạo ra những cá thể vượt trội về thể chất hay trí tuệ. \n\nBất chấp những quan ngại kể trên, thế giới vẫn ghi nhận nhiều bước tiến thận trọng nhưng đầy triển vọng trong việc ứng dụng công nghệ này để điều trị các căn bệnh di truyền. Khác với trường hợp gây tranh cãi của ông Hạ, các nghiên cứu hiện nay tập trung vào việc chỉnh sửa gen ở người trưởng thành, đảm bảo các biến đổi ADN không di truyền cho thế hệ sau. Điển hình như kỹ thuật cải tiến prime editing do nhóm nhà khoa học David Liu phát triển, cho phép nhắm mục tiêu chính xác hơn và hạn chế tối đa các tác động không mong muốn. Mới đây, một bệnh nhân tại Mỹ đã được điều trị thành công bệnh hồng cầu hình liềm bằng công cụ CRISPR, mở ra tia hy vọng cho hàng triệu người trên thế giới. Đồng thời, tại Trung Quốc, các thử nghiệm cấy tế bào gốc chỉnh sửa gen cho bệnh nhân bạch cầu và những nghiên cứu trên động vật nhằm chống lại dịch bệnh cũng đạt được những thành tựu bước đầu. Tuy nhiên, giới khoa học vẫn giữ thái độ thận trọng, khẳng định rằng cần thêm nhiều thời gian và các công trình nghiên cứu quy mô lớn hơn để khẳng định tính an toàn và hiệu quả bền vững của phương pháp này trước khi áp dụng rộng rãi.",
+        "dictionary": {
+            "năm": "年",
+            "cộng đồng": "社区",
+            "khoa học": "科学",
+            "quốc tế": "国际",
+            "cú sốc": "冲击",
+            "lớn": "大",
+            "nhà nghiên cứu": "研究员",
+            "Trung Quốc": "中国",
+            "Hạ Kiến Khuê": "贺建奎",
+            "tuyên bố": "宣布",
+            "ứng dụng": "应用",
+            "thành công": "成功",
+            "công nghệ": "技术",
+            "chỉnh sửa": "编辑",
+            "gen": "基因",
+            "tạo ra": "创造",
+            "cặp song sinh": "双胞胎",
+            "khả năng": "能力",
+            "miễn dịch": "免疫",
+            "virus": "病毒",
+            "HIV": "艾滋病病毒",
+            "sự kiện": "事件",
+            "làn sóng": "浪潮",
+            "tranh cãi": "争议",
+            "dữ dội": "激烈",
+            "chuẩn mực": "准则",
+            "luân lý": "伦理",
+            "y sinh học": "生物医学",
+            "dấu hỏi": "疑问",
+            "trách nhiệm": "责任",
+            "con người": "人类",
+            "can thiệp": "干预",
+            "mã gen": "基因码",
+            "tự nhiên": "自然",
+            "chính quyền": "政府",
+            "vụ bê bối": "丑闻",
+            "y tế": "医疗",
+            "nghiêm trọng": "严重",
+            "quy định": "规定",
+            "pháp lý": "法律",
+            "liên quan": "相关",
+            "Tổ chức Y tế Thế giới": "世界卫生组织",
+            "lên án": "谴责",
+            "hành vi": "行为",
+            "khẳng định": "肯定",
+            "kỹ thuật": "技术",
+            "di truyền": "遗传",
+            "mục đích": "目的",
+            "sinh sản": "生殖",
+            "thiếu": "缺乏",
+            "tương lai": "未来",
+            "nhân loại": "人类",
+            "tiềm năng": "潜力",
+            "chuyên gia": "专家",
+            "cảnh báo": "警告",
+            "rủi ro": "风险",
+            "tiềm ẩn": "潜在",
+            "Feng Zhang": "张锋",
+            "đồng phát minh": "共同发明",
+            "CRISPR": "CRISPR",
+            "nhấn mạnh": "强调",
+            "tồn tại": "存在",
+            "hạn chế": "局限",
+            "đặc biệt": "特别",
+            "nguy cơ": "危险",
+            "đột biến": "突变",
+            "mục tiêu": "目标",
+            "tình trạng": "状态",
+            "mất ổn định": "不稳定",
+            "hệ gen": "基因组",
+            "góc độ": "角度",
+            "đạo đức": "道德",
+            "tùy ý": "随意",
+            "bất bình đẳng": "不平等",
+            "xã hội": "社会",
+            "sâu sắc": "深远",
+            "cá thể": "个体",
+            "vượt trội": "卓越",
+            "thể chất": "体质",
+            "trí tuệ": "智力",
+            "quan ngại": "担忧",
+            "thế giới": "世界",
+            "ghi nhận": "记录",
+            "bước tiến": "进步",
+            "thận trọng": "谨慎",
+            "triển vọng": "前景",
+            "điều trị": "治疗",
+            "căn bệnh": "疾病",
+            "trường hợp": "案例",
+            "nghiên cứu": "研究",
+            "trưởng thành": "成年",
+            "đảm bảo": "确保",
+            "biến đổi": "变异",
+            "ADN": "DNA",
+            "thế hệ": "世代",
+            "điển hình": "典型",
+            "cải tiến": "改进",
+            "prime editing": "先导编辑",
+            "nhóm": "小组",
+            "David Liu": "刘如谦",
+            "phát triển": "发展",
+            "cho phép": "允许",
+            "nhắm": "瞄准",
+            "chính xác": "精确",
+            "tác động": "影响",
+            "mong muốn": "期望",
+            "bệnh nhân": "患者",
+            "Mỹ": "美国",
+            "hồng cầu hình liềm": "镰状细胞贫血",
+            "công cụ": "工具",
+            "tia hy vọng": "希望之光",
+            "hàng triệu": "数百万",
+            "thử nghiệm": "试验",
+            "cấy": "移植",
+            "tế bào gốc": "干细胞",
+            "bạch cầu": "白血病",
+            "động vật": "动物",
+            "chống lại": "对抗",
+            "dịch bệnh": "疫情",
+            "thành tựu": "成就",
+            "thái độ": "态度",
+            "thời gian": "时间",
+            "công trình": "工程",
+            "quy mô": "规模",
+            "tính an toàn": "安全性",
+            "hiệu quả": "有效性",
+            "bền vững": "可持续",
+            "phương pháp": "方法",
+            "rộng rãi": "广泛"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Hạ Kiến Khuê tuyên bố ứng dụng thành công công nghệ chỉnh sửa gen.",
+                    "Tổ chức Y tế Thế giới lên án hành vi này một cách mạnh mẽ.",
+                    "Các nghiên cứu hiện nay tập trung vào việc chỉnh sửa gen ở người trưởng thành.",
+                    "Vì tiềm năng của công nghệ chỉnh sửa gen là rất lớn, nhưng các chuyên gia vẫn cảnh báo rủi ro."
+                ],
+                "correct": "Vì tiềm năng của công nghệ chỉnh sửa gen là rất lớn, nhưng các chuyên gia vẫn cảnh báo rủi ro."
+            },
+            {
+                "question": "Sự kiện nhà nghiên cứu Hạ Kiến Khuê tuyên bố ứng dụng công nghệ chỉnh sửa gen diễn ra vào thời điểm nào?",
+                "options": [
+                    "Đầu năm 2018",
+                    "Cuối năm 2018",
+                    "Đầu năm 2019",
+                    "Cuối năm 2019"
+                ],
+                "correct": "Cuối năm 2018"
+            },
+            {
+                "question": "Theo bài đọc, ông Feng Zhang có vai trò gì trong lĩnh vực công nghệ chỉnh sửa gen?",
+                "options": [
+                    "Là người phản đối hoàn toàn công nghệ CRISPR",
+                    "Là đồng phát minh công nghệ CRISPR",
+                    "Là người thực hiện chỉnh sửa gen trên cặp song sinh",
+                    "Là chuyên gia của Tổ chức Y tế Thế giới"
+                ],
+                "correct": "Là đồng phát minh công nghệ CRISPR"
+            },
+            {
+                "question": "Trong đoạn thứ hai, từ “hạn chế” có thể được hiểu là gì?",
+                "options": [
+                    "Điểm yếu hoặc khiếm khuyết",
+                    "Sự cấm đoán của pháp luật",
+                    "Khoảng cách về thời gian",
+                    "Sự thiếu hụt về tài chính"
+                ],
+                "correct": "Điểm yếu hoặc khiếm khuyết"
+            },
+            {
+                "question": "Vì sao việc tùy ý chỉnh sửa gen lại có thể tạo ra những bất bình đẳng xã hội sâu sắc?",
+                "options": [
+                    "Vì nó làm giảm khả năng miễn dịch của con người",
+                    "Vì nó làm tăng chi phí điều trị y tế toàn cầu",
+                    "Vì con người có thể can thiệp để tạo ra những cá thể vượt trội về thể chất hay trí tuệ",
+                    "Vì nó gây ra sự mất ổn định hệ gen ở người trưởng thành"
+                ],
+                "correct": "Vì con người có thể can thiệp để tạo ra những cá thể vượt trội về thể chất hay trí tuệ"
+            },
+            {
+                "question": "Cụm từ “tia hy vọng” trong bài đọc có hàm ý gì?",
+                "options": [
+                    "Một loại thuốc mới được phát minh",
+                    "Một khả năng thành công trong việc điều trị bệnh",
+                    "Một sự kiện gây tranh cãi trong y học",
+                    "Một dự báo về tương lai của nhân loại"
+                ],
+                "correct": "Một khả năng thành công trong việc điều trị bệnh"
+            },
+            {
+                "question": "Thái độ của giới khoa học đối với việc áp dụng rộng rãi công nghệ chỉnh sửa gen là gì?",
+                "options": [
+                    "Ủng hộ tuyệt đối và muốn triển khai ngay lập tức",
+                    "Thận trọng và khẳng định cần thêm thời gian nghiên cứu",
+                    "Phản đối gay gắt vì những rủi ro đạo đức",
+                    "Thờ ơ vì cho rằng công nghệ này không hiệu quả"
+                ],
+                "correct": "Thận trọng và khẳng định cần thêm thời gian nghiên cứu"
+            },
+            {
+                "question": "Mục đích chính của việc nhắc đến kỹ thuật “prime editing” của nhóm David Liu là gì?",
+                "options": [
+                    "Để chứng minh sự nguy hiểm của công nghệ chỉnh sửa gen",
+                    "Để so sánh với những sai lầm của ông Hạ Kiến Khuê",
+                    "Để minh chứng cho những bước tiến thận trọng và đầy triển vọng trong nghiên cứu",
+                    "Để chỉ trích các nghiên cứu đang thực hiện tại Trung Quốc"
+                ],
+                "correct": "Để minh chứng cho những bước tiến thận trọng và đầy triển vọng trong nghiên cứu"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Tiểu sử của nhà nghiên cứu Hạ Kiến Khuê",
+                    "Sự phát triển và những tranh cãi xoay quanh công nghệ chỉnh sửa gen",
+                    "Cách thức hoạt động của công nghệ CRISPR và prime editing",
+                    "Những thành tựu y học tại Mỹ và Trung Quốc"
+                ],
+                "correct": "Sự phát triển và những tranh cãi xoay quanh công nghệ chỉnh sửa gen"
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả trong bài viết là gì?",
+                "options": [
+                    "Công nghệ chỉnh sửa gen là hoàn toàn có hại và cần bị cấm",
+                    "Công nghệ chỉnh sửa gen có tiềm năng lớn nhưng cần được kiểm soát chặt chẽ về đạo đức và kỹ thuật",
+                    "Công nghệ chỉnh sửa gen là giải pháp duy nhất để chữa khỏi mọi bệnh di truyền",
+                    "Công nghệ chỉnh sửa gen không nên được áp dụng cho con người"
+                ],
+                "correct": "Công nghệ chỉnh sửa gen có tiềm năng lớn nhưng cần được kiểm soát chặt chẽ về đạo đức và kỹ thuật"
+            },
+            {
+                "question": "Theo bài đọc, sự khác biệt chính giữa nghiên cứu của ông Hạ Kiến Khuê và các nghiên cứu hiện nay là gì?",
+                "options": [
+                    "Nghiên cứu hiện nay không sử dụng công nghệ CRISPR",
+                    "Nghiên cứu hiện nay tập trung vào người trưởng thành, không di truyền cho thế hệ sau",
+                    "Nghiên cứu hiện nay không cần sự cho phép của chính quyền",
+                    "Nghiên cứu hiện nay chỉ tập trung vào động vật"
+                ],
+                "correct": "Nghiên cứu hiện nay tập trung vào người trưởng thành, không di truyền cho thế hệ sau"
+            },
+            {
+                "question": "Cụm từ “đột biến ngoài mục tiêu” được đề cập trong bài có nghĩa là gì?",
+                "options": [
+                    "Những thay đổi gen không mong muốn tại các vị trí không định trước",
+                    "Những thành tựu y học vượt xa dự đoán ban đầu",
+                    "Các phương pháp điều trị bệnh không cần dùng đến thuốc",
+                    "Sự thay đổi gen có chủ đích để chữa bệnh"
+                ],
+                "correct": "Những thay đổi gen không mong muốn tại các vị trí không định trước"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
+    },
+    {
+        "title": "Vai trò chiến lược của công nghệ 5G trong kỷ nguyên cách mạng công nghiệp 4.0",
+        "text": "Trong bối cảnh toàn cầu hóa, cách mạng công nghiệp 4.0 đang dần trở thành hiện thực sống động, góp phần định hình lại nền kinh tế thế giới. Sự thành công của quá trình chuyển đổi này phụ thuộc phần lớn vào công nghệ Internet vạn vật công nghiệp và các mạng 5G dùng riêng. Dự báo đến năm 2029, thị trường liên quan đến cuộc cách mạng này sẽ đạt giá trị ấn tượng, lên tới 377,30 tỷ USD.\n\nĐể vận hành hiệu quả các hệ thống phức tạp bao gồm robot, thiết bị cảm biến, phương tiện tự hành và con người, cần có một hạ tầng kết nối liền mạch. Các thế hệ mạng vô tuyến cũ đã bộc lộ những hạn chế về năng lực, không còn đáp ứng được nhu cầu dữ liệu khổng lồ. Chính vì vậy, 5G nổi lên như một nhân tố then chốt, mang lại những lợi ích vượt trội. Với tốc độ truyền tải đạt tới 20 Gbps, nhanh hơn 20 lần so với 4G, 5G cho phép xử lý khối lượng dữ liệu khổng lồ trong môi trường công nghiệp. Đặc biệt, độ trễ siêu thấp chỉ 1 mili giây tạo điều kiện cho việc giám sát và điều khiển máy móc theo thời gian thực, đồng thời cải thiện đáng kể độ tin cậy của kết nối trong những khu vực từ xa. Ngoài ra, khả năng hỗ trợ đồng thời tới 1 triệu thiết bị IoT giúp 5G trở thành nền tảng vững chắc cho các hệ thống sản xuất hiện đại.\n\nTrên thực tế, những ưu thế này đang mở ra nhiều phương án ứng dụng mới. Trong lĩnh vực kho bãi thông minh, 5G tối ưu hóa quy trình quản lý hàng tồn kho và nâng cao năng suất lao động. Đối với bảo trì dự đoán, công nghệ này giúp doanh nghiệp phát hiện sớm các sự cố tiềm ẩn, từ đó kéo dài tuổi thọ máy móc và đảm bảo tính liên tục trong vận hành. Hơn nữa, sự linh hoạt trong sản xuất cho phép các nhà máy thích ứng nhanh chóng với biến động của thị trường.\n\nĐể hiện thực hóa tiềm năng này, việc đo kiểm hệ thống là yếu tố bắt buộc. Các nhà sản xuất hiện nay thường sử dụng mô hình \"bản sao số\" – một dạng giả lập ảo dựa trên dữ liệu cảm biến – để kiểm thử cơ sở hạ tầng trong nhiều điều kiện khác nhau. Sự kết hợp giữa 5G và bản sao số chính là chìa khóa để vận hành các nhà máy thông minh một cách hiệu quả. Khi các công nghệ này được ứng dụng rộng rãi, chúng sẽ tạo ra sức lan tỏa mạnh mẽ, thúc đẩy đổi mới sáng tạo, nâng cao năng lực cạnh tranh và đưa nền công nghiệp toàn cầu tiến vào một kỷ nguyên phát triển bền vững, hiện đại và tối ưu hóa hơn bao giờ hết.",
+        "dictionary": {
+            "bối cảnh": "背景",
+            "toàn cầu hóa": "全球化",
+            "cách mạng": "革命",
+            "công nghiệp": "工业",
+            "hiện thực": "现实",
+            "sống động": "生动",
+            "định hình": "塑造",
+            "nền kinh tế": "经济",
+            "thế giới": "世界",
+            "thành công": "成功",
+            "quá trình": "过程",
+            "chuyển đổi": "转型",
+            "phụ thuộc": "依赖",
+            "công nghệ": "技术",
+            "Internet vạn vật": "物联网",
+            "mạng": "网络",
+            "dự báo": "预测",
+            "thị trường": "市场",
+            "giá trị": "价值",
+            "ấn tượng": "印象深刻",
+            "vận hành": "运行",
+            "hiệu quả": "有效",
+            "hệ thống": "系统",
+            "phức tạp": "复杂",
+            "robot": "机器人",
+            "thiết bị": "设备",
+            "cảm biến": "传感器",
+            "phương tiện": "交通工具",
+            "tự hành": "自动驾驶",
+            "con người": "人类",
+            "hạ tầng": "基础设施",
+            "kết nối": "连接",
+            "liền mạch": "无缝",
+            "thế hệ": "一代",
+            "vô tuyến": "无线",
+            "cũ": "旧",
+            "bộc lộ": "暴露",
+            "hạn chế": "局限",
+            "năng lực": "能力",
+            "đáp ứng": "满足",
+            "nhu cầu": "需求",
+            "dữ liệu": "数据",
+            "khổng lồ": "巨大",
+            "nhân tố": "因素",
+            "then chốt": "关键",
+            "lợi ích": "利益",
+            "vượt trội": "卓越",
+            "tốc độ": "速度",
+            "truyền tải": "传输",
+            "nhanh": "快",
+            "xử lý": "处理",
+            "khối lượng": "容量",
+            "môi trường": "环境",
+            "độ trễ": "延迟",
+            "siêu thấp": "超低",
+            "mili giây": "毫秒",
+            "tạo điều kiện": "创造条件",
+            "giám sát": "监控",
+            "điều khiển": "控制",
+            "máy móc": "机器",
+            "thời gian thực": "实时",
+            "cải thiện": "改善",
+            "đáng kể": "显著",
+            "tin cậy": "可靠",
+            "khu vực": "区域",
+            "từ xa": "远程",
+            "khả năng": "能力",
+            "hỗ trợ": "支持",
+            "triệu": "百万",
+            "nền tảng": "平台",
+            "vững chắc": "稳固",
+            "sản xuất": "生产",
+            "hiện đại": "现代",
+            "thực tế": "实际",
+            "ưu thế": "优势",
+            "phương án": "方案",
+            "ứng dụng": "应用",
+            "mới": "新",
+            "lĩnh vực": "领域",
+            "kho bãi": "仓储",
+            "thông minh": "智能",
+            "tối ưu hóa": "优化",
+            "quy trình": "流程",
+            "quản lý": "管理",
+            "hàng tồn kho": "库存",
+            "nâng cao": "提高",
+            "năng suất": "生产率",
+            "lao động": "劳动",
+            "bảo trì": "维护",
+            "dự đoán": "预测",
+            "doanh nghiệp": "企业",
+            "phát hiện": "发现",
+            "sớm": "早",
+            "sự cố": "故障",
+            "tiềm ẩn": "潜在",
+            "kéo dài": "延长",
+            "tuổi thọ": "寿命",
+            "đảm bảo": "确保",
+            "tính liên tục": "连续性",
+            "linh hoạt": "灵活",
+            "nhà máy": "工厂",
+            "thích ứng": "适应",
+            "nhanh chóng": "迅速",
+            "biến động": "波动",
+            "tiềm năng": "潜力",
+            "đo kiểm": "测试",
+            "yếu tố": "要素",
+            "bắt buộc": "强制",
+            "mô hình": "模型",
+            "bản sao số": "数字孪生",
+            "giả lập": "模拟",
+            "ảo": "虚拟",
+            "kiểm thử": "测试",
+            "cơ sở": "基础",
+            "kết hợp": "结合",
+            "chìa khóa": "钥匙",
+            "rộng rãi": "广泛",
+            "sức lan tỏa": "辐射力",
+            "mạnh mẽ": "强大",
+            "thúc đẩy": "推动",
+            "đổi mới": "创新",
+            "cạnh tranh": "竞争",
+            "kỷ nguyên": "时代",
+            "phát triển": "发展",
+            "bền vững": "可持续"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Công nghệ 5G mang lại nhiều lợi ích vượt trội cho nền công nghiệp hiện đại.",
+                    "Sự kết hợp giữa 5G và bản sao số là chìa khóa để vận hành nhà máy thông minh.",
+                    "Dự báo đến năm 2029, thị trường cách mạng công nghiệp đạt giá trị 377,30 tỷ USD.",
+                    "Các nhà sản xuất sử dụng mô hình bản sao số để kiểm thử cơ sở hạ tầng."
+                ],
+                "correct": "Dự báo đến năm 2029, thị trường cách mạng công nghiệp đạt giá trị 377,30 tỷ USD."
+            },
+            {
+                "question": "Theo bài đọc, giá trị dự báo của thị trường liên quan đến cách mạng công nghiệp vào năm 2029 là bao nhiêu?",
+                "options": [
+                    "20 Gbps",
+                    "1 triệu thiết bị",
+                    "377,30 tỷ USD",
+                    "1 mili giây"
+                ],
+                "correct": "377,30 tỷ USD"
+            },
+            {
+                "question": "Đặc điểm nào của 5G giúp việc giám sát và điều khiển máy móc theo thời gian thực trở nên khả thi?",
+                "options": [
+                    "Tốc độ truyền tải đạt tới 20 Gbps",
+                    "Độ trễ siêu thấp chỉ 1 mili giây",
+                    "Khả năng hỗ trợ 1 triệu thiết bị IoT",
+                    "Khả năng kết nối trong khu vực từ xa"
+                ],
+                "correct": "Độ trễ siêu thấp chỉ 1 mili giây"
+            },
+            {
+                "question": "Trong đoạn thứ hai, từ “nhân tố then chốt” có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Yếu tố quan trọng",
+                    "Sản phẩm phụ trợ",
+                    "Công cụ lỗi thời",
+                    "Kết quả cuối cùng"
+                ],
+                "correct": "Yếu tố quan trọng"
+            },
+            {
+                "question": "Vì sao các thế hệ mạng vô tuyến cũ không còn được coi là phù hợp trong bối cảnh công nghiệp hiện nay?",
+                "options": [
+                    "Vì chúng không hỗ trợ các thiết bị cảm biến",
+                    "Vì chúng có độ trễ quá thấp",
+                    "Vì chúng không đáp ứng được nhu cầu dữ liệu khổng lồ",
+                    "Vì chúng không thể kết nối với các thiết bị IoT"
+                ],
+                "correct": "Vì chúng không đáp ứng được nhu cầu dữ liệu khổng lồ"
+            },
+            {
+                "question": "Cụm từ “bản sao số” trong bài đọc được hiểu là gì?",
+                "options": [
+                    "Một bản sao vật lý của máy móc trong nhà máy",
+                    "Một dạng giả lập ảo dựa trên dữ liệu cảm biến",
+                    "Một thiết bị phần cứng dùng để đo kiểm hệ thống",
+                    "Một phương pháp quản lý hàng tồn kho thủ công"
+                ],
+                "correct": "Một dạng giả lập ảo dựa trên dữ liệu cảm biến"
+            },
+            {
+                "question": "Qua cách tác giả mô tả về 5G, thái độ của tác giả đối với công nghệ này là gì?",
+                "options": [
+                    "Hoài nghi về tính ứng dụng thực tế",
+                    "Thờ ơ và khách quan",
+                    "Đánh giá cao và kỳ vọng tích cực",
+                    "Lo ngại về các rủi ro bảo mật"
+                ],
+                "correct": "Đánh giá cao và kỳ vọng tích cực"
+            },
+            {
+                "question": "Mục đích chính của việc nhắc đến “bảo trì dự đoán” trong bài là để làm gì?",
+                "options": [
+                    "Chứng minh khả năng kéo dài tuổi thọ máy móc nhờ công nghệ",
+                    "Phê phán các phương pháp bảo trì truyền thống",
+                    "Giải thích cách thức hoạt động của robot",
+                    "Liệt kê các loại hình dịch vụ trong kho bãi"
+                ],
+                "correct": "Chứng minh khả năng kéo dài tuổi thọ máy móc nhờ công nghệ"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử phát triển của các thế hệ mạng vô tuyến",
+                    "Vai trò và tiềm năng của 5G trong kỷ nguyên công nghiệp hiện đại",
+                    "Cách thức vận hành của các robot trong nhà máy thông minh",
+                    "Dự báo kinh tế về thị trường công nghệ toàn cầu năm 2029"
+                ],
+                "correct": "Vai trò và tiềm năng của 5G trong kỷ nguyên công nghiệp hiện đại"
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Công nghệ là yếu tố duy nhất quyết định sự thành công của kinh tế",
+                    "Sự chuyển đổi số là xu thế tất yếu để đạt được sự phát triển bền vững",
+                    "Con người sẽ sớm bị thay thế hoàn toàn bởi các thiết bị tự hành",
+                    "Việc đầu tư vào 5G là quá tốn kém so với lợi ích mang lại"
+                ],
+                "correct": "Sự chuyển đổi số là xu thế tất yếu để đạt được sự phát triển bền vững"
+            },
+            {
+                "question": "Theo bài đọc, 5G hỗ trợ đồng thời bao nhiêu thiết bị IoT?",
+                "options": [
+                    "20 thiết bị",
+                    "1.000 thiết bị",
+                    "1 triệu thiết bị",
+                    "377,30 thiết bị"
+                ],
+                "correct": "1 triệu thiết bị"
+            },
+            {
+                "question": "Dựa vào thông tin trong bài, nếu một nhà máy muốn thích ứng nhanh với biến động thị trường, họ cần điều gì?",
+                "options": [
+                    "Sử dụng các mạng vô tuyến cũ",
+                    "Tăng cường sự linh hoạt trong sản xuất",
+                    "Loại bỏ hoàn toàn các thiết bị cảm biến",
+                    "Giảm bớt số lượng robot trong kho bãi"
+                ],
+                "correct": "Tăng cường sự linh hoạt trong sản xuất"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
