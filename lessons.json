@@ -2000,5 +2000,264 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Chuyển đổi số trong giáo dục tại các vùng nông thôn tỉnh Ninh Bình",
+        "text": "Nếu như trước đây, lớp học tại các vùng nông thôn tỉnh Ninh Bình còn khá đơn sơ với hình ảnh quen thuộc của phấn trắng, bảng đen và những bộ bàn ghế gỗ mộc mạc, thì hiện nay, nhiều phòng học đã được nâng cấp với bảng tương tác thông minh, máy chiếu hiện đại cùng hệ thống Internet tốc độ cao. Học sinh vốn quen thuộc với sách giấy nay đang từng bước làm quen với môi trường học tập trực tuyến thông qua việc đăng nhập phần mềm, nộp bài, tham gia các diễn đàn thảo luận và thử sức với những bài kiểm tra trên nền tảng số. Quá trình này không chỉ giúp các em thích nghi với phương pháp học tập hiện đại mà còn tạo ra sự kết hợp hài hòa giữa giáo dục truyền thống và công nghệ tiên tiến.\n\nTheo số liệu thống kê từ ngành giáo dục, toàn tỉnh hiện đã có hàng nghìn phòng học được trang bị máy chiếu và bảng tương tác, đồng thời các trường phổ thông đều tích cực triển khai chương trình giáo dục mới gắn liền với ứng dụng công nghệ thông tin. Sự chuyển dịch này đã góp phần thu hẹp đáng kể khoảng cách về chất lượng đào tạo giữa các trường trung tâm và vùng sâu, vùng xa. Bà Nguyễn Thị Phương, Hiệu trưởng Trường tiểu học Trực Thắng, chia sẻ rằng trước đây công nghệ vốn được xem là đặc quyền của các trường học ở thành phố, nhưng nay học sinh nông thôn cũng đã tiếp cận được với các lớp học STEM và mô hình giáo dục trực tuyến. Điều cốt lõi nằm ở sự quyết tâm thay đổi của đội ngũ nhà giáo để cùng học sinh bắt nhịp với thời đại.\n\nNhờ chuyển đổi số, học sinh nông thôn có điều kiện tiếp cận nguồn tri thức thế giới nhanh chóng hơn thông qua các khóa học ngoại ngữ trực tuyến hay các nền tảng thí nghiệm ảo. Nhiều trường đã thí điểm mô hình dạy học kết hợp, cho phép học sinh tương tác linh hoạt giữa trực tiếp và trực tuyến, giúp mở rộng tầm nhìn và gia tăng sự tự tin trong giao tiếp. Tuy nhiên, hành trình này vẫn đối mặt với không ít thách thức như cơ sở vật chất chưa đồng bộ, Internet tại một số địa phương còn chập chờn và áp lực về kỹ năng số đối với giáo viên. Dẫu vậy, chuyển đổi số không đơn thuần là việc đưa máy tính vào lớp học, mà là quá trình thay đổi toàn diện phương pháp dạy và học nhằm nâng tầm vị thế giáo dục làng quê. Đây chính là con đường tất yếu để thế hệ trẻ nông thôn được trang bị hành trang vững chắc, nối dài truyền thống hiếu học của vùng đất Ninh Bình trong kỷ nguyên số.",
+        "dictionary": {
+            "lớp học": "教室",
+            "vùng": "地区",
+            "nông thôn": "农村",
+            "tỉnh": "省",
+            "Ninh Bình": "宁平",
+            "hình ảnh": "形象",
+            "phấn": "粉笔",
+            "bảng": "黑板",
+            "bộ": "套",
+            "bàn": "桌子",
+            "ghế": "椅子",
+            "gỗ": "木",
+            "phòng": "房间",
+            "bảng tương tác": "交互式白板",
+            "máy chiếu": "投影仪",
+            "hệ thống": "系统",
+            "Internet": "互联网",
+            "tốc độ": "速度",
+            "Học sinh": "学生",
+            "sách": "书",
+            "giấy": "纸",
+            "môi trường": "环境",
+            "học tập": "学习",
+            "phần mềm": "软件",
+            "bài": "作业",
+            "diễn đàn": "论坛",
+            "thảo luận": "讨论",
+            "kiểm tra": "考试",
+            "nền tảng": "平台",
+            "số": "数字",
+            "quá trình": "过程",
+            "phương pháp": "方法",
+            "sự kết hợp": "结合",
+            "giáo dục": "教育",
+            "truyền thống": "传统",
+            "công nghệ": "技术",
+            "số liệu": "数据",
+            "thống kê": "统计",
+            "ngành": "行业",
+            "trường": "学校",
+            "chương trình": "课程",
+            "ứng dụng": "应用",
+            "thông tin": "信息",
+            "sự chuyển dịch": "转型",
+            "khoảng cách": "差距",
+            "chất lượng": "质量",
+            "đào tạo": "培训",
+            "trung tâm": "中心",
+            "vùng sâu": "偏远地区",
+            "vùng xa": "边远地区",
+            "Bà": "女士",
+            "Nguyễn Thị Phương": "阮氏芳",
+            "Hiệu trưởng": "校长",
+            "Trực Thắng": "直胜",
+            "thành phố": "城市",
+            "STEM": "STEM",
+            "mô hình": "模式",
+            "cốt lõi": "核心",
+            "sự quyết tâm": "决心",
+            "đội ngũ": "队伍",
+            "nhà giáo": "教师",
+            "thời đại": "时代",
+            "tri thức": "知识",
+            "thế giới": "世界",
+            "khóa học": "课程",
+            "ngoại ngữ": "外语",
+            "thí nghiệm": "实验",
+            "tầm nhìn": "视野",
+            "sự tự tin": "自信",
+            "giao tiếp": "交流",
+            "hành trình": "旅程",
+            "thách thức": "挑战",
+            "cơ sở vật chất": "基础设施",
+            "địa phương": "地方",
+            "áp lực": "压力",
+            "kỹ năng": "技能",
+            "giáo viên": "教师",
+            "máy tính": "电脑",
+            "vị thế": "地位",
+            "làng quê": "乡村",
+            "con đường": "道路",
+            "thế hệ": "一代",
+            "hành trang": "行囊",
+            "kỷ nguyên": "纪元",
+            "đơn sơ": "简陋",
+            "quen thuộc": "熟悉",
+            "mộc mạc": "朴素",
+            "thông minh": "智能",
+            "hiện đại": "现代",
+            "cao": "高",
+            "trực tuyến": "在线",
+            "thích nghi": "适应",
+            "hài hòa": "和谐",
+            "tiên tiến": "先进",
+            "tích cực": "积极",
+            "đáng kể": "显著",
+            "tiếp cận": "接触",
+            "quyết tâm": "决心",
+            "nhanh chóng": "迅速",
+            "ảo": "虚拟",
+            "linh hoạt": "灵活",
+            "trực tiếp": "直接",
+            "chập chờn": "不稳定",
+            "toàn diện": "全面",
+            "tất yếu": "必然",
+            "vững chắc": "稳固",
+            "hiếu học": "好学",
+            "nâng cấp": "升级",
+            "đăng nhập": "登录",
+            "nộp": "提交",
+            "tham gia": "参加",
+            "thử sức": "尝试",
+            "giúp": "帮助",
+            "tạo ra": "创造",
+            "trang bị": "配备",
+            "triển khai": "开展",
+            "gắn liền": "结合",
+            "thu hẹp": "缩小",
+            "chia sẻ": "分享",
+            "xem": "视为",
+            "bắt nhịp": "跟上",
+            "thí điểm": "试点",
+            "dạy": "教",
+            "mở rộng": "扩大",
+            "gia tăng": "增加",
+            "đối mặt": "面对",
+            "đưa": "放入",
+            "nâng tầm": "提升",
+            "nối dài": "延续"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Nhiều phòng học đã được nâng cấp với bảng tương tác thông minh.",
+                    "Học sinh vốn quen thuộc với sách giấy nay đang từng bước làm quen.",
+                    "Sự chuyển dịch này đã góp phần thu hẹp đáng kể khoảng cách.",
+                    "Chuyển đổi số không đơn thuần là việc đưa máy tính vào lớp học, mà là quá trình thay đổi toàn diện phương pháp dạy và học."
+                ],
+                "correct": "Học sinh vốn quen thuộc với sách giấy nay đang từng bước làm quen."
+            },
+            {
+                "question": "Theo bài đọc, ai là người đã chia sẻ về việc học sinh nông thôn tiếp cận được với các lớp học STEM?",
+                "options": [
+                    "Một giáo viên tại trường trung tâm",
+                    "Bà Nguyễn Thị Phương",
+                    "Đại diện ngành giáo dục tỉnh Ninh Bình",
+                    "Một chuyên gia về công nghệ giáo dục"
+                ],
+                "correct": "Bà Nguyễn Thị Phương"
+            },
+            {
+                "question": "Theo bài đọc, cơ sở vật chất tại các lớp học vùng nông thôn tỉnh Ninh Bình hiện nay có đặc điểm gì?",
+                "options": [
+                    "Vẫn giữ nguyên hình ảnh phấn trắng và bảng đen truyền thống",
+                    "Chỉ sử dụng sách giấy để đảm bảo tính giáo dục",
+                    "Được nâng cấp với bảng tương tác, máy chiếu và Internet tốc độ cao",
+                    "Chưa có sự thay đổi đáng kể so với trước đây"
+                ],
+                "correct": "Được nâng cấp với bảng tương tác, máy chiếu và Internet tốc độ cao"
+            },
+            {
+                "question": "Từ “đặc quyền” trong đoạn hai có thể được hiểu là gì?",
+                "options": [
+                    "Quyền lợi chỉ dành riêng cho một nhóm đối tượng cụ thể",
+                    "Trách nhiệm bắt buộc phải thực hiện của các trường học",
+                    "Sự ưu tiên về mặt tài chính của nhà nước",
+                    "Khả năng tiếp cận công nghệ của tất cả mọi người"
+                ],
+                "correct": "Quyền lợi chỉ dành riêng cho một nhóm đối tượng cụ thể"
+            },
+            {
+                "question": "Vì sao việc chuyển đổi số lại giúp thu hẹp khoảng cách giáo dục giữa các vùng?",
+                "options": [
+                    "Vì học sinh nông thôn không cần đến trường nữa",
+                    "Vì giáo viên thành phố chuyển về nông thôn giảng dạy",
+                    "Vì học sinh nông thôn có thể tiếp cận nguồn tri thức và mô hình học tập hiện đại tương đương thành phố",
+                    "Vì chi phí học tập trực tuyến rẻ hơn nhiều so với học truyền thống"
+                ],
+                "correct": "Vì học sinh nông thôn có thể tiếp cận nguồn tri thức và mô hình học tập hiện đại tương đương thành phố"
+            },
+            {
+                "question": "Cụm từ “nối dài truyền thống hiếu học” trong đoạn cuối có hàm ý gì?",
+                "options": [
+                    "Khuyến khích học sinh đi học xa nhà",
+                    "Tiếp nối và phát huy tinh thần ham học hỏi bằng phương thức mới phù hợp thời đại",
+                    "Yêu cầu học sinh phải học tập chăm chỉ hơn so với thế hệ trước",
+                    "Giữ nguyên cách học cũ để không làm mất đi bản sắc"
+                ],
+                "correct": "Tiếp nối và phát huy tinh thần ham học hỏi bằng phương thức mới phù hợp thời đại"
+            },
+            {
+                "question": "Qua bài đọc, thái độ của tác giả đối với quá trình chuyển đổi số tại Ninh Bình là gì?",
+                "options": [
+                    "Hoài nghi về tính khả thi của công nghệ",
+                    "Lo ngại về việc mất đi giá trị truyền thống",
+                    "Ủng hộ và đánh giá cao sự thay đổi tích cực",
+                    "Thờ ơ với những khó khăn mà giáo viên gặp phải"
+                ],
+                "correct": "Ủng hộ và đánh giá cao sự thay đổi tích cực"
+            },
+            {
+                "question": "Mục đích chính của việc tác giả liệt kê các thách thức như Internet chập chờn hay áp lực kỹ năng số là gì?",
+                "options": [
+                    "Để chứng minh chuyển đổi số là một việc làm sai lầm",
+                    "Để cho thấy cái nhìn khách quan và thực tế về quá trình chuyển đổi",
+                    "Để kêu gọi sự hỗ trợ tài chính từ các nhà đầu tư",
+                    "Để đổ lỗi cho đội ngũ giáo viên chưa nỗ lực"
+                ],
+                "correct": "Để cho thấy cái nhìn khách quan và thực tế về quá trình chuyển đổi"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử phát triển của các trường học tại Ninh Bình",
+                    "Những khó khăn của giáo viên trong thời đại công nghệ",
+                    "Quá trình chuyển đổi số trong giáo dục tại các vùng nông thôn tỉnh Ninh Bình",
+                    "Cách sử dụng phần mềm học tập trong các trường phổ thông"
+                ],
+                "correct": "Quá trình chuyển đổi số trong giáo dục tại các vùng nông thôn tỉnh Ninh Bình"
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Công nghệ là yếu tố duy nhất quyết định chất lượng giáo dục",
+                    "Chuyển đổi số là con đường tất yếu để nâng tầm giáo dục nông thôn",
+                    "Giáo dục truyền thống cần được thay thế hoàn toàn bằng công nghệ",
+                    "Chuyển đổi số chỉ phù hợp với các trường học ở thành phố lớn"
+                ],
+                "correct": "Chuyển đổi số là con đường tất yếu để nâng tầm giáo dục nông thôn"
+            },
+            {
+                "question": "Từ “nền tảng số” trong đoạn một có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Sách giáo khoa giấy",
+                    "Hệ thống công nghệ trực tuyến",
+                    "Bảng đen truyền thống",
+                    "Phòng học vật lý"
+                ],
+                "correct": "Hệ thống công nghệ trực tuyến"
+            },
+            {
+                "question": "Theo bài đọc, điều gì được coi là “cốt lõi” để thực hiện chuyển đổi số thành công?",
+                "options": [
+                    "Sự đầu tư máy móc hiện đại từ các tập đoàn lớn",
+                    "Sự quyết tâm thay đổi của đội ngũ nhà giáo",
+                    "Sự bắt buộc từ phía ngành giáo dục tỉnh",
+                    "Sự yêu cầu từ phía phụ huynh học sinh"
+                ],
+                "correct": "Sự quyết tâm thay đổi của đội ngũ nhà giáo"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
