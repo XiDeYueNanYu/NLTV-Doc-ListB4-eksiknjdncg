@@ -2513,5 +2513,277 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Những ngộ nhận phổ biến về lối sống tối giản trong xã hội hiện đại",
+        "text": "Trong xã hội đương đại, lối sống tối giản trở thành xu hướng được nhiều người theo đuổi nhằm tìm kiếm sự thanh thản. Tuy nhiên, không ít cá nhân đang hiểu sai bản chất của khái niệm này, dẫn đến những hệ lụy tiêu cực thay vì sự an nhiên như mong đợi. Một trong những sai lầm điển hình là việc cố gắng thu dọn mọi thứ vào khuôn khổ. Nhiều người nỗ lực sắp xếp vật dụng sao cho căn nhà luôn ngăn nắp tuyệt đối, vô tình tạo ra áp lực tâm lý nặng nề cho bản thân và các thành viên trong gia đình. Khi không gian sống bị kiểm soát quá mức, sự tiện nghi bị thay thế bởi cảm giác gò bó, thậm chí gây ra những xung đột không đáng có chỉ vì việc để sai vị trí một món đồ nhỏ.\n\nBên cạnh đó, việc tôn sùng các vật dụng đa năng cũng là một cái bẫy tinh vi. Mặc dù mục tiêu là giảm thiểu số lượng đồ đạc, nhưng những thiết kế phức tạp với cơ chế tháo lắp thường xuyên lại tiềm ẩn rủi ro về độ bền và an toàn kỹ thuật. Thay vì tối ưu hóa trải nghiệm, người dùng lại phải đối mặt với sự phiền toái khi các bộ phận rời rạc dễ hỏng hóc hoặc gây mất an toàn trong quá trình sử dụng. Hơn thế nữa, quan niệm sai lầm về việc vứt bỏ vô tội vạ những vật dụng cũ để làm trống không gian thường dẫn đến vòng lặp mua sắm bù đắp. Hành vi này không những gây lãng phí tài chính mà còn phản bội lại tinh thần cốt lõi của lối sống tối giản là sự cân nhắc kỹ lưỡng trước khi tiêu dùng.\n\nCuối cùng, việc kìm nén quá mức các nhu cầu cá nhân chính là rào cản lớn nhất ngăn con người đạt đến sự tối giản đích thực. Tối giản không đồng nghĩa với việc khắc kỷ hay ép buộc bản thân từ bỏ mọi sở thích, mà là trạng thái không còn nhu cầu tiêu thụ những thứ không cần thiết từ bên trong. Đối với người trẻ, việc cưỡng ép bản thân cắt giảm chi tiêu khi vẫn đang trong giai đoạn khám phá cuộc sống thường dẫn đến sự bùng nổ mua sắm sau một thời gian dài kìm nén. Thực tế, lối sống tối giản đúng nghĩa là sự hòa hợp giữa nhu cầu thực tại và giá trị tinh thần. Khi chúng ta hiểu rõ bản chất, sự tối giản sẽ mang lại tự do thay vì là xiềng xích, giúp mỗi người tận hưởng cuộc sống một cách trọn vẹn và ý nghĩa hơn trong một thế giới đầy biến động.",
+        "dictionary": {
+            "xã hội": "社会",
+            "đương đại": "当代",
+            "lối sống": "生活方式",
+            "tối giản": "极简",
+            "trở thành": "成为",
+            "xu hướng": "趋势",
+            "nhiều": "许多",
+            "người": "人",
+            "theo đuổi": "追求",
+            "tìm kiếm": "寻找",
+            "sự": "的",
+            "thanh thản": "宁静",
+            "cá nhân": "个人",
+            "hiểu sai": "误解",
+            "bản chất": "本质",
+            "khái niệm": "概念",
+            "dẫn đến": "导致",
+            "hệ lụy": "后果",
+            "tiêu cực": "负面",
+            "thay vì": "而不是",
+            "an nhiên": "安然",
+            "mong đợi": "期待",
+            "sai lầm": "错误",
+            "điển hình": "典型",
+            "việc": " việc",
+            "cố gắng": "努力",
+            "thu dọn": "收拾",
+            "mọi thứ": "一切",
+            "khuôn khổ": "框架",
+            "nỗ lực": "努力",
+            "sắp xếp": "整理",
+            "vật dụng": "物品",
+            "căn nhà": "房子",
+            "ngăn nắp": "整洁",
+            "tuyệt đối": "绝对",
+            "vô tình": "无意",
+            "tạo ra": "创造",
+            "áp lực": "压力",
+            "tâm lý": "心理",
+            "nặng nề": "沉重",
+            "bản thân": "自身",
+            "thành viên": "成员",
+            "gia đình": "家庭",
+            "không gian": "空间",
+            "sống": "生活",
+            "bị": "被",
+            "kiểm soát": "控制",
+            "quá mức": "过度",
+            "tiện nghi": "便利",
+            "thay thế": "替代",
+            "cảm giác": "感觉",
+            "gò bó": "拘束",
+            "thậm chí": "甚至",
+            "gây ra": "引起",
+            "xung đột": "冲突",
+            "đáng có": "值得",
+            "vị trí": "位置",
+            "món đồ": "物品",
+            "nhỏ": "小",
+            "tôn sùng": "崇拜",
+            "đa năng": "多功能",
+            "cái bẫy": "陷阱",
+            "tinh vi": "精细",
+            "mục tiêu": "目标",
+            "giảm thiểu": "减少",
+            "số lượng": "数量",
+            "đồ đạc": "家具",
+            "thiết kế": "设计",
+            "phức tạp": "复杂",
+            "cơ chế": "机制",
+            "tháo lắp": "拆装",
+            "thường xuyên": "经常",
+            "tiềm ẩn": "潜藏",
+            "rủi ro": "风险",
+            "độ bền": "耐用度",
+            "an toàn": "安全",
+            "kỹ thuật": "技术",
+            "tối ưu hóa": "优化",
+            "trải nghiệm": "体验",
+            "người dùng": "用户",
+            "đối mặt": "面对",
+            "phiền toái": "烦恼",
+            "bộ phận": "部件",
+            "rời rạc": "零散",
+            "hỏng hóc": "损坏",
+            "quá trình": "过程",
+            "sử dụng": "使用",
+            "quan niệm": "观念",
+            "vứt bỏ": "丢弃",
+            "vô tội vạ": "随意",
+            "cũ": "旧",
+            "làm trống": "清空",
+            "vòng lặp": "循环",
+            "mua sắm": "购物",
+            "bù đắp": "补偿",
+            "hành vi": "行为",
+            "lãng phí": "浪费",
+            "tài chính": "财政",
+            "phản bội": "背离",
+            "tinh thần": "精神",
+            "cốt lõi": "核心",
+            "cân nhắc": " cân nhắc",
+            "kỹ lưỡng": " kỹ lưỡng",
+            "tiêu dùng": "消费",
+            "kìm nén": "压抑",
+            "nhu cầu": "需求",
+            "rào cản": "障碍",
+            "lớn": "大",
+            "ngăn": " ngăn",
+            "đạt đến": "达到",
+            "đích thực": " đích thực",
+            "đồng nghĩa": " đồng nghĩa",
+            "khắc kỷ": " khắc kỷ",
+            "ép buộc": " ép buộc",
+            "từ bỏ": " từ bỏ",
+            "sở thích": " sở thích",
+            "trạng thái": " trạng thái",
+            "tiêu thụ": " tiêu thụ",
+            "cần thiết": " cần thiết",
+            "bên trong": " bên trong",
+            "trẻ": " trẻ",
+            "cưỡng ép": " cưỡng ép",
+            "cắt giảm": " cắt giảm",
+            "chi tiêu": " chi tiêu",
+            "giai đoạn": " giai đoạn",
+            "khám phá": " khám phá",
+            "bùng nổ": " bùng nổ",
+            "thực tế": " thực tế",
+            "đúng nghĩa": " đúng nghĩa",
+            "hòa hợp": " hòa hợp",
+            "thực tại": " thực tại",
+            "giá trị": " giá trị",
+            "hiểu rõ": " hiểu rõ",
+            "mang lại": " mang lại",
+            "tự do": " tự do",
+            "xiềng xích": " xiềng xích",
+            "giúp": " giúp",
+            "tận hưởng": " tận hưởng",
+            "trọn vẹn": " trọn vẹn",
+            "ý nghĩa": " ý nghĩa",
+            "thế giới": " thế giới",
+            "biến động": " biến động"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Nhiều người nỗ lực sắp xếp vật dụng sao cho căn nhà luôn ngăn nắp tuyệt đối.",
+                    "Lối sống tối giản trở thành xu hướng được nhiều người theo đuổi nhằm tìm kiếm sự thanh thản.",
+                    "Khi không gian sống bị kiểm soát quá mức, sự tiện nghi bị thay thế bởi cảm giác gò bó.",
+                    "Việc kìm nén quá mức các nhu cầu cá nhân là rào cản lớn nhất ngăn con người đạt đến sự tối giản đích thực."
+                ],
+                "correct": "Việc kìm nén quá mức các nhu cầu cá nhân là rào cản lớn nhất ngăn con người đạt đến sự tối giản đích thực."
+            },
+            {
+                "question": "Theo bài đọc, đâu là một trong những sai lầm điển hình khi thực hiện lối sống tối giản?",
+                "options": [
+                    "Mua sắm quá nhiều vật dụng đa năng.",
+                    "Cố gắng thu dọn mọi thứ vào khuôn khổ.",
+                    "Từ bỏ mọi sở thích cá nhân một cách tự nguyện.",
+                    "Không bao giờ vứt bỏ các vật dụng cũ."
+                ],
+                "correct": "Cố gắng thu dọn mọi thứ vào khuôn khổ."
+            },
+            {
+                "question": "Đặc điểm của các vật dụng đa năng được nhắc đến trong bài là gì?",
+                "options": [
+                    "Luôn bền bỉ và an toàn tuyệt đối.",
+                    "Giúp tiết kiệm chi phí mua sắm lâu dài.",
+                    "Có thiết kế phức tạp với cơ chế tháo lắp thường xuyên.",
+                    "Là lựa chọn tối ưu nhất cho người sống tối giản."
+                ],
+                "correct": "Có thiết kế phức tạp với cơ chế tháo lắp thường xuyên."
+            },
+            {
+                "question": "Từ “vô tội vạ” trong đoạn hai có thể được thay thế bằng từ nào dưới đây?",
+                "options": [
+                    "Có chọn lọc",
+                    "Một cách bừa bãi",
+                    "Tiết kiệm",
+                    "Có kế hoạch"
+                ],
+                "correct": "Một cách bừa bãi"
+            },
+            {
+                "question": "Vì sao việc vứt bỏ đồ cũ một cách vô tội vạ lại phản bội tinh thần của lối sống tối giản?",
+                "options": [
+                    "Vì nó làm không gian sống trở nên quá trống trải.",
+                    "Vì nó khiến người dùng phải mua sắm bù đắp, gây lãng phí tài chính.",
+                    "Vì nó làm hỏng các vật dụng đa năng trong nhà.",
+                    "Vì nó khiến con người trở nên khắc kỷ hơn."
+                ],
+                "correct": "Vì nó khiến người dùng phải mua sắm bù đắp, gây lãng phí tài chính."
+            },
+            {
+                "question": "Cụm từ “xiềng xích” trong đoạn cuối được hiểu là gì?",
+                "options": [
+                    "Sự tự do tuyệt đối trong cuộc sống.",
+                    "Những áp lực và sự gò bó do hiểu sai về lối sống tối giản.",
+                    "Công cụ để sắp xếp đồ đạc ngăn nắp.",
+                    "Sự hòa hợp giữa nhu cầu thực tại và giá trị tinh thần."
+                ],
+                "correct": "Những áp lực và sự gò bó do hiểu sai về lối sống tối giản."
+            },
+            {
+                "question": "Tác giả thể hiện thái độ như thế nào đối với việc kìm nén nhu cầu cá nhân để sống tối giản?",
+                "options": [
+                    "Ủng hộ vì đó là cách duy nhất để đạt được an nhiên.",
+                    "Trung lập, không đưa ra nhận xét.",
+                    "Phê phán vì đó là rào cản ngăn con người đạt đến sự tối giản đích thực.",
+                    "Khuyến khích người trẻ nên thực hiện để rèn luyện bản thân."
+                ],
+                "correct": "Phê phán vì đó là rào cản ngăn con người đạt đến sự tối giản đích thực."
+            },
+            {
+                "question": "Mục đích chính của tác giả khi nhắc đến “vòng lặp mua sắm bù đắp” là gì?",
+                "options": [
+                    "Để chứng minh rằng mua sắm là nhu cầu không thể thiếu.",
+                    "Để cảnh báo về hệ quả tiêu cực của việc vứt bỏ đồ đạc thiếu cân nhắc.",
+                    "Để khuyến khích người đọc mua sắm các vật dụng đa năng.",
+                    "Để giải thích lý do tại sao đồ cũ lại dễ hỏng hóc."
+                ],
+                "correct": "Để cảnh báo về hệ quả tiêu cực của việc vứt bỏ đồ đạc thiếu cân nhắc."
+            },
+            {
+                "question": "Nội dung chính của bài đọc là gì?",
+                "options": [
+                    "Hướng dẫn cách sắp xếp nhà cửa ngăn nắp theo phong cách tối giản.",
+                    "Phân tích các sai lầm phổ biến khi theo đuổi lối sống tối giản và định nghĩa lại bản chất của nó.",
+                    "So sánh sự khác biệt giữa lối sống tối giản và lối sống khắc kỷ.",
+                    "Khuyến khích người trẻ nên mua sắm các vật dụng đa năng để tiết kiệm diện tích."
+                ],
+                "correct": "Phân tích các sai lầm phổ biến khi theo đuổi lối sống tối giản và định nghĩa lại bản chất của nó."
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả về lối sống tối giản là gì?",
+                "options": [
+                    "Tối giản là việc từ bỏ mọi sở thích để đạt được sự an nhiên.",
+                    "Tối giản là sự hòa hợp giữa nhu cầu thực tại và giá trị tinh thần, mang lại tự do.",
+                    "Tối giản là xu hướng không phù hợp với người trẻ đang khám phá cuộc sống.",
+                    "Tối giản là việc kiểm soát không gian sống một cách tuyệt đối."
+                ],
+                "correct": "Tối giản là sự hòa hợp giữa nhu cầu thực tại và giá trị tinh thần, mang lại tự do."
+            },
+            {
+                "question": "Theo bài đọc, hành động nào sau đây gây ra áp lực tâm lý cho các thành viên trong gia đình?",
+                "options": [
+                    "Sắp xếp vật dụng sao cho căn nhà ngăn nắp tuyệt đối.",
+                    "Sử dụng các vật dụng đa năng trong nhà.",
+                    "Cân nhắc kỹ lưỡng trước khi tiêu dùng.",
+                    "Tận hưởng cuộc sống một cách trọn vẹn."
+                ],
+                "correct": "Sắp xếp vật dụng sao cho căn nhà ngăn nắp tuyệt đối."
+            },
+            {
+                "question": "Từ “nó” trong câu “Hành vi này không những gây lãng phí tài chính mà còn phản bội lại tinh thần cốt lõi của lối sống tối giản” quy chiếu đến điều gì?",
+                "options": [
+                    "Việc sử dụng vật dụng đa năng.",
+                    "Việc kìm nén nhu cầu cá nhân.",
+                    "Việc vứt bỏ vô tội vạ những vật dụng cũ.",
+                    "Việc kiểm soát không gian sống quá mức."
+                ],
+                "correct": "Việc vứt bỏ vô tội vạ những vật dụng cũ."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
