@@ -2785,5 +2785,290 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Những thách thức và giải pháp hòa hợp trong mô hình gia đình đa thế hệ",
+        "text": "Mô hình gia đình tam, tứ đại đồng đường, nơi ông bà giữ vai trò chủ chốt, vốn là nét văn hóa truyền thống lâu đời của người Việt. Tuy nhiên, trong xã hội hiện đại, tư duy này đã có nhiều thay đổi, nảy sinh những khác biệt sâu sắc trong thế giới quan, lối sống cũng như phương pháp giáo dục con trẻ. Nếu không được giải quyết thấu đáo, nguy cơ phát sinh những mâu thuẫn dai dẳng hay các cuộc \"chiến tranh tâm lý\" ngầm sẽ khiến không khí gia đình trở nên vô cùng ngột ngạt.\n\nĐối với nhiều người, việc sống chung cùng đại gia đình là niềm hạnh phúc khi được gắn kết giữa các thế hệ. Song, không ít cá nhân, đặc biệt tại các đô thị lớn, lại cảm thấy áp lực, xem đó là sự ràng buộc \"một cổ hai tròng\" và luôn khao khát thoát ly để tìm kiếm sự tự do cá nhân. Khi không thể tách rời do nhiều yếu tố khách quan, họ thường chọn giải pháp ứng xử im lặng. Sự im lặng này, dù mang vẻ ngoài của sự nhẫn nhịn, thực chất lại là dấu hiệu của một cuộc sống thiếu vắng tiếng cười, nơi các thành viên không còn đối thoại chân thành mà chỉ duy trì các quy tắc ứng xử máy móc, gượng ép.\n\nBên cạnh áp lực đối nhân xử thế, việc chăm sóc con cái cũng trở thành điểm nóng mâu thuẫn do sự can thiệp và quan điểm bảo thủ từ ông bà. Nhiều cặp vợ chồng trẻ cảm thấy bị giám sát chặt chẽ, dẫn đến tâm lý ức chế. Một số người chọn cách nhượng bộ để giữ hòa khí, trong khi số khác lại phản ứng gay gắt, đặt cuộc hôn nhân của mình trước nguy cơ tan vỡ vì sự bốc đồng và thiếu thấu hiểu. Thực tế, tâm lý người già rất dễ tự ái; họ cần sự tôn trọng không chỉ bởi kinh nghiệm sống mà còn vì nề nếp gia phong. Thay vì cãi vã, con cái cần biết lắng nghe và lựa chọn thời điểm thích hợp để phân tích, bởi suy cho cùng, sự góp ý của ông bà đều xuất phát từ mong muốn con cháu tốt đẹp hơn.\n\nNgược lại, vẫn có những gia đình đa thế hệ chung sống vô cùng đầm ấm, trở thành tấm gương sáng trong cộng đồng. Bí quyết nằm ở sự hòa thuận, tương trợ và tôn trọng lẫn nhau. Khoảng cách thế hệ có thể được hóa giải nếu đôi trẻ chủ động chia sẻ kiến thức nuôi dạy con khoa học với ông bà, đồng thời luôn nhẹ nhàng, mềm mỏng trong cách ứng xử. Trân trọng những trải nghiệm quý giá của thế hệ đi trước và coi những lời khuyên của họ như sự sẻ chia từ những người thân thiết chính là liều thuốc bổ quý giá nhất để duy trì một tổ ấm hạnh phúc, bền vững trong nhịp sống đương đại.",
+        "dictionary": {
+            "Mô hình": "模式",
+            "gia đình": "家庭",
+            "tam": "三",
+            "tứ": "四",
+            "đại": "大",
+            "đồng đường": "同堂",
+            "nơi": "地方",
+            "ông bà": "祖父母",
+            "giữ": "保持",
+            "vai trò": "角色",
+            "chủ chốt": "核心",
+            "vốn": " vốn",
+            "nét": "特征",
+            "văn hóa": "文化",
+            "truyền thống": "传统",
+            "lâu đời": "悠久",
+            "người Việt": "越南人",
+            "xã hội": "社会",
+            "hiện đại": "现代",
+            "tư duy": "思维",
+            "thay đổi": "改变",
+            "nảy sinh": "产生",
+            "khác biệt": "差异",
+            "sâu sắc": "深刻",
+            "thế giới quan": "世界观",
+            "lối sống": "生活方式",
+            "phương pháp": "方法",
+            "giáo dục": "教育",
+            "con trẻ": "儿童",
+            "giải quyết": "解决",
+            "thấu đáo": "透彻",
+            "nguy cơ": "危机",
+            "phát sinh": "发生",
+            "mâu thuẫn": "矛盾",
+            "dai dẳng": "持久",
+            "cuộc": "场",
+            "chiến tranh": "战争",
+            "tâm lý": "心理",
+            "ngầm": "暗中",
+            "khiến": "使",
+            "không khí": "气氛",
+            "trở nên": "变得",
+            "vô cùng": "非常",
+            "ngột ngạt": "压抑",
+            "người": "人",
+            "việc": "事",
+            "sống": "生活",
+            "chung": "共同",
+            "đại gia đình": "大家庭",
+            "niềm": " niềm",
+            "hạnh phúc": "幸福",
+            "gắn kết": "连接",
+            "thế hệ": "世代",
+            "cá nhân": "个人",
+            "đặc biệt": "特别",
+            "đô thị": "城市",
+            "lớn": "大",
+            "cảm thấy": "感到",
+            "áp lực": "压力",
+            "xem": "看",
+            "ràng buộc": "束缚",
+            "một cổ hai tròng": "双重负担",
+            "khao khát": "渴望",
+            "thoát ly": "脱离",
+            "tìm kiếm": "寻找",
+            "tự do": "自由",
+            "tách rời": "分离",
+            "yếu tố": "因素",
+            "khách quan": "客观",
+            "chọn": "选择",
+            "giải pháp": "解决方案",
+            "ứng xử": "应对",
+            "im lặng": "沉默",
+            "vẻ ngoài": "外表",
+            "nhẫn nhịn": "忍耐",
+            "thực chất": "实质",
+            "dấu hiệu": "迹象",
+            "thiếu vắng": "缺乏",
+            "tiếng cười": "笑声",
+            "thành viên": "成员",
+            "đối thoại": "对话",
+            "chân thành": "真诚",
+            "duy trì": "维持",
+            "quy tắc": "规则",
+            "máy móc": "机械",
+            "gượng ép": "勉强",
+            "chăm sóc": "照顾",
+            "con cái": "子女",
+            "điểm nóng": "热点",
+            "can thiệp": "干涉",
+            "quan điểm": "观点",
+            "bảo thủ": "保守",
+            "cặp": "对",
+            "vợ chồng": "夫妻",
+            "trẻ": "年轻",
+            "giám sát": "监督",
+            "chặt chẽ": "严密",
+            "dẫn đến": "导致",
+            "ức chế": "压抑",
+            "nhượng bộ": "让步",
+            "hòa khí": "和气",
+            "phản ứng": "反应",
+            "gay gắt": "激烈",
+            "đặt": "置于",
+            "hôn nhân": "婚姻",
+            "tan vỡ": "破裂",
+            "bốc đồng": "冲动",
+            "thấu hiểu": "理解",
+            "thực tế": "实际",
+            "già": "老",
+            "tự ái": "自尊心强",
+            "tôn trọng": "尊重",
+            "kinh nghiệm": "经验",
+            "nề nếp": "规矩",
+            "gia phong": "家风",
+            "cãi vã": "争吵",
+            "lắng nghe": "倾听",
+            "lựa chọn": "选择",
+            "thời điểm": "时机",
+            "thích hợp": "合适",
+            "phân tích": "分析",
+            "suy cho cùng": "归根结底",
+            "góp ý": "建议",
+            "xuất phát": "出发",
+            "mong muốn": "愿望",
+            "cháu": "孙辈",
+            "tốt đẹp": "美好",
+            "đầm ấm": "温馨",
+            "tấm gương": "榜样",
+            "sáng": "明亮",
+            "cộng đồng": "社区",
+            "bí quyết": "秘诀",
+            "hòa thuận": "和睦",
+            "tương trợ": "互助",
+            "khoảng cách": "距离",
+            "hóa giải": "化解",
+            "chủ động": "主动",
+            "chia sẻ": "分享",
+            "kiến thức": "知识",
+            "nuôi dạy": "养育",
+            "khoa học": "科学",
+            "nhẹ nhàng": "轻柔",
+            "mềm mỏng": "温和",
+            "trân trọng": "珍惜",
+            "trải nghiệm": "体验",
+            "quý giá": "珍贵",
+            "lời khuyên": "建议",
+            "sẻ chia": "分担",
+            "thân thiết": "亲密",
+            "liều thuốc": "药剂",
+            "bổ": "补",
+            "tổ ấm": "家",
+            "bền vững": "稳固",
+            "nhịp sống": "生活节奏",
+            "đương đại": "当代"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Gia đình tam đại đồng đường là nét văn hóa truyền thống của người Việt.",
+                    "Sự im lặng trong gia đình, dù mang vẻ ngoài của sự nhẫn nhịn, thực chất là dấu hiệu của sự thiếu vắng tiếng cười.",
+                    "Vì ông bà có nhiều kinh nghiệm sống, nên con cái cần phải biết lắng nghe ông bà nhiều hơn.",
+                    "Mặc dù ông bà có nhiều kinh nghiệm sống, nhưng con cái cần phải biết lắng nghe ông bà nhiều hơn."
+                ],
+                "correct": "Mặc dù ông bà có nhiều kinh nghiệm sống, nhưng con cái cần phải biết lắng nghe ông bà nhiều hơn."
+            },
+            {
+                "question": "Theo bài đọc, đâu là nguyên nhân chính dẫn đến các cuộc “chiến tranh tâm lý” ngầm trong gia đình?",
+                "options": [
+                    "Sự khác biệt về thế hệ và tư duy giữa các thành viên.",
+                    "Áp lực kinh tế tại các đô thị lớn.",
+                    "Việc ông bà không muốn sống chung với con cháu.",
+                    "Sự thiếu hụt về không gian sinh hoạt trong nhà."
+                ],
+                "correct": "Sự khác biệt về thế hệ và tư duy giữa các thành viên."
+            },
+            {
+                "question": "Theo văn bản, trạng thái của những thành viên chọn giải pháp “ứng xử im lặng” là gì?",
+                "options": [
+                    "Họ cảm thấy hạnh phúc vì giữ được hòa khí gia đình.",
+                    "Họ cảm thấy tự do và thoải mái với lựa chọn của mình.",
+                    "Họ duy trì các quy tắc ứng xử máy móc và gượng ép.",
+                    "Họ cảm thấy tự hào vì đã nhẫn nhịn được người lớn."
+                ],
+                "correct": "Họ duy trì các quy tắc ứng xử máy móc và gượng ép."
+            },
+            {
+                "question": "Trong đoạn hai, cụm từ “một cổ hai tròng” có thể được hiểu là gì?",
+                "options": [
+                    "Sự gắn kết bền chặt giữa các thành viên trong gia đình.",
+                    "Áp lực nặng nề và sự ràng buộc khó lòng thoát khỏi.",
+                    "Trách nhiệm chăm sóc ông bà và con cái cùng lúc.",
+                    "Sự tự do cá nhân bị hạn chế bởi các quy tắc xã hội."
+                ],
+                "correct": "Áp lực nặng nề và sự ràng buộc khó lòng thoát khỏi."
+            },
+            {
+                "question": "Từ “họ” trong câu “họ thường chọn giải pháp ứng xử im lặng” quy chiếu đến đối tượng nào?",
+                "options": [
+                    "Những người cao tuổi trong gia đình.",
+                    "Những người cảm thấy áp lực và bị ràng buộc khi sống trong đại gia đình.",
+                    "Những cặp vợ chồng trẻ đang nuôi dạy con cái.",
+                    "Những người ủng hộ mô hình gia đình tam đại đồng đường."
+                ],
+                "correct": "Những người cảm thấy áp lực và bị ràng buộc khi sống trong đại gia đình."
+            },
+            {
+                "question": "Vì sao việc chăm sóc con cái thường trở thành “điểm nóng” mâu thuẫn trong gia đình đa thế hệ?",
+                "options": [
+                    "Do ông bà không có thời gian để chăm sóc cháu.",
+                    "Do sự can thiệp và quan điểm bảo thủ từ ông bà.",
+                    "Do các cặp vợ chồng trẻ không muốn ông bà can thiệp vào tài chính.",
+                    "Do sự khác biệt về điều kiện kinh tế giữa các thế hệ."
+                ],
+                "correct": "Do sự can thiệp và quan điểm bảo thủ từ ông bà."
+            },
+            {
+                "question": "Nếu các cặp vợ chồng trẻ chủ động chia sẻ kiến thức nuôi dạy con khoa học với ông bà, điều gì có khả năng xảy ra?",
+                "options": [
+                    "Mâu thuẫn sẽ gia tăng vì ông bà cảm thấy bị xúc phạm.",
+                    "Khoảng cách thế hệ sẽ được hóa giải và gia đình đầm ấm hơn.",
+                    "Ông bà sẽ hoàn toàn từ bỏ quan điểm giáo dục truyền thống.",
+                    "Các cặp vợ chồng sẽ mất đi quyền tự quyết trong việc dạy con."
+                ],
+                "correct": "Khoảng cách thế hệ sẽ được hóa giải và gia đình đầm ấm hơn."
+            },
+            {
+                "question": "Thái độ của tác giả đối với những lời khuyên từ thế hệ đi trước là gì?",
+                "options": [
+                    "Phủ nhận hoàn toàn vì cho rằng đó là quan điểm bảo thủ.",
+                    "Khuyên nên coi đó là sự sẻ chia từ người thân thiết để duy trì hạnh phúc.",
+                    "Cần phải phản ứng gay gắt để bảo vệ quan điểm cá nhân.",
+                    "Nên lờ đi để tránh các cuộc tranh cãi không cần thiết."
+                ],
+                "correct": "Khuyên nên coi đó là sự sẻ chia từ người thân thiết để duy trì hạnh phúc."
+            },
+            {
+                "question": "Dụng ý của tác giả khi nhắc đến “tâm lý người già rất dễ tự ái” là gì?",
+                "options": [
+                    "Để phê phán tính cách khó chiều của người lớn tuổi.",
+                    "Để giải thích lý do vì sao con cái cần khéo léo và tôn trọng khi góp ý.",
+                    "Để chứng minh rằng người già không phù hợp với xã hội hiện đại.",
+                    "Để cảnh báo người trẻ không nên nói chuyện với ông bà."
+                ],
+                "correct": "Để giải thích lý do vì sao con cái cần khéo léo và tôn trọng khi góp ý."
+            },
+            {
+                "question": "Mục đích chính của tác giả khi viết bài đọc này là gì?",
+                "options": [
+                    "Phê phán lối sống gia đình đa thế hệ là lạc hậu.",
+                    "Khuyên mọi người nên sống tách biệt để tránh mâu thuẫn.",
+                    "Đề xuất cách ứng xử hòa hợp để duy trì hạnh phúc trong gia đình đa thế hệ.",
+                    "Phân tích sự khác biệt giữa các thế hệ trong xã hội hiện đại."
+                ],
+                "correct": "Đề xuất cách ứng xử hòa hợp để duy trì hạnh phúc trong gia đình đa thế hệ."
+            },
+            {
+                "question": "Nội dung chính của toàn bộ văn bản là gì?",
+                "options": [
+                    "Những khó khăn trong việc nuôi dạy con cái ở đô thị lớn.",
+                    "Sự xung đột không thể tránh khỏi giữa các thế hệ trong gia đình Việt.",
+                    "Thực trạng mâu thuẫn và giải pháp để duy trì sự hòa thuận trong gia đình đa thế hệ.",
+                    "Tầm quan trọng của việc giữ gìn văn hóa truyền thống trong xã hội hiện đại."
+                ],
+                "correct": "Thực trạng mâu thuẫn và giải pháp để duy trì sự hòa thuận trong gia đình đa thế hệ."
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả về mô hình gia đình đa thế hệ là gì?",
+                "options": [
+                    "Đó là mô hình cần được loại bỏ trong xã hội hiện đại.",
+                    "Đó là mô hình mang lại nhiều áp lực hơn là hạnh phúc.",
+                    "Đó là mô hình có thể duy trì bền vững nếu các thành viên biết tôn trọng và thấu hiểu lẫn nhau.",
+                    "Đó là mô hình chỉ phù hợp với những gia đình có điều kiện kinh tế khá giả."
+                ],
+                "correct": "Đó là mô hình có thể duy trì bền vững nếu các thành viên biết tôn trọng và thấu hiểu lẫn nhau."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
