@@ -3630,5 +3630,271 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Đặc điểm và giá trị văn hóa của lễ hội truyền thống Việt Nam",
+        "text": "Trải qua hàng nghìn năm dựng nước và giữ nước, dân tộc Việt Nam đã tạo dựng và lưu truyền một hệ thống lễ hội truyền thống vô cùng quý giá. Đây không chỉ là di sản văn hóa tinh thần mà còn là ký ức sống động, phản ánh bản sắc bền bỉ của cộng đồng qua thời gian. Theo các nhà nghiên cứu văn hóa, lễ hội là một hiện tượng tổng thể, bao gồm hai thành tố không thể tách rời: “lễ” – các nghi thức tín ngưỡng trang nghiêm để bày tỏ lòng thành kính với thần linh, và “hội” – phần sinh hoạt cộng đồng náo nhiệt. Sự hòa quyện giữa tính thiêng liêng của nghi lễ và sự sôi nổi của các trò diễn dân gian đã tạo nên một môi trường văn hóa hài hòa, hướng con người tới những giá trị chân, thiện, mỹ.\n\nLễ hội truyền thống thường gắn liền với các di tích lịch sử, đình, đền, miếu hoặc các nhân vật có công với đất nước. Về thời gian, lễ hội thường diễn ra vào hai mùa xuân – thu, tương ứng với chu kỳ sản xuất nông nghiệp, phản ánh khát vọng cầu mùa và niềm tin vào các thế lực thiên nhiên. Về không gian, lễ hội luôn được tổ chức tại những địa điểm linh thiêng, nơi các nghi thức quan trọng như lễ cáo yết, lễ mộc dục, lễ rước và đại tế được thực hiện một cách cẩn trọng, tỉ mỉ. Đặc biệt, lễ rước được coi là linh hồn của lễ hội, biểu trưng cho sức mạnh đoàn kết và năng lực thẩm mỹ của cộng đồng. Quá trình chuẩn bị cho lễ hội đòi hỏi sự đồng lòng, phân công nhiệm vụ chặt chẽ từ những người chủ tế đến đội ngũ phục vụ, thể hiện tính kỷ luật và sự tôn kính sâu sắc.\n\nGiá trị của lễ hội truyền thống được khẳng định qua năm khía cạnh cơ bản. Thứ nhất, lễ hội là sợi dây kết nối con người với cội nguồn lịch sử, giúp mỗi cá nhân nhận thức rõ hơn về quê hương và tổ tiên. Thứ hai, đây là môi trường quan trọng để cố kết cộng đồng, tạo nên sự đồng cảm về số mệnh và lợi ích. Thứ ba, lễ hội đáp ứng nhu cầu tâm linh, mang lại trạng thái thăng hoa cho con người giữa cuộc sống trần tục. Thứ tư, lễ hội tạo không gian hưởng thụ văn hóa, giải tỏa những áp lực thường nhật thông qua các hoạt động giải trí cộng đồng. Cuối cùng, lễ hội đóng vai trò như một “bảo tàng sống”, nơi trao truyền các giá trị đạo đức và phong tục tốt đẹp từ thế hệ này sang thế hệ khác. Như vậy, lễ hội không chỉ bảo tồn bản sắc văn hóa dân tộc mà còn là động lực thúc đẩy sự phát triển bền vững của xã hội đương đại.",
+        "dictionary": {
+            "năm": "年",
+            "dựng nước": "建国",
+            "giữ nước": "保国",
+            "dân tộc": "民族",
+            "Việt Nam": "越南",
+            "tạo dựng": "创建",
+            "lưu truyền": "流传",
+            "hệ thống": "系统",
+            "lễ hội": "节日",
+            "truyền thống": "传统",
+            "quý giá": "珍贵",
+            "di sản": "遗产",
+            "văn hóa": "文化",
+            "tinh thần": "精神",
+            "ký ức": "记忆",
+            "sống động": "生动",
+            "phản ánh": "反映",
+            "bản sắc": "本色",
+            "bền bỉ": "持久",
+            "cộng đồng": "社区",
+            "thời gian": "时间",
+            "nhà nghiên cứu": "研究者",
+            "hiện tượng": "现象",
+            "tổng thể": "整体",
+            "thành tố": "要素",
+            "tách rời": "分离",
+            "lễ": "礼",
+            "nghi thức": "仪式",
+            "tín ngưỡng": "信仰",
+            "trang nghiêm": "庄严",
+            "bày tỏ": "表达",
+            "lòng thành kính": "虔诚",
+            "thần linh": "神灵",
+            "hội": "会",
+            "sinh hoạt": "生活",
+            "náo nhiệt": "热闹",
+            "hòa quyện": "融合",
+            "thiêng liêng": "神圣",
+            "nghi lễ": "礼仪",
+            "sôi nổi": "活跃",
+            "trò diễn": "表演",
+            "dân gian": "民间",
+            "môi trường": "环境",
+            "hài hòa": "和谐",
+            "hướng": "向",
+            "con người": "人类",
+            "giá trị": "价值",
+            "chân": "真",
+            "thiện": "善",
+            "mỹ": "美",
+            "di tích": "遗迹",
+            "lịch sử": "历史",
+            "đình": "亭",
+            "đền": "庙",
+            "miếu": "祠",
+            "nhân vật": "人物",
+            "đất nước": "国家",
+            "mùa xuân": "春季",
+            "mùa thu": "秋季",
+            "chu kỳ": "周期",
+            "sản xuất": "生产",
+            "nông nghiệp": "农业",
+            "khát vọng": "渴望",
+            "cầu mùa": "祈求丰收",
+            "niềm tin": "信念",
+            "thế lực": "势力",
+            "thiên nhiên": "自然",
+            "không gian": "空间",
+            "tổ chức": "组织",
+            "địa điểm": "地点",
+            "linh thiêng": "灵验",
+            "lễ cáo yết": "告祭礼",
+            "lễ mộc dục": "沐浴礼",
+            "lễ rước": "迎神礼",
+            "đại tế": "大祭",
+            "cẩn trọng": "谨慎",
+            "tỉ mỉ": "细致",
+            "linh hồn": "灵魂",
+            "biểu trưng": "象征",
+            "sức mạnh": "力量",
+            "đoàn kết": "团结",
+            "năng lực": "能力",
+            "thẩm mỹ": "审美",
+            "quá trình": "过程",
+            "chuẩn bị": "准备",
+            "đòi hỏi": "要求",
+            "đồng lòng": "同心",
+            "phân công": "分工",
+            "nhiệm vụ": "任务",
+            "chặt chẽ": "严密",
+            "chủ tế": "主祭",
+            "đội ngũ": "队伍",
+            "phục vụ": "服务",
+            "kỷ luật": "纪律",
+            "tôn kính": "尊敬",
+            "sâu sắc": "深刻",
+            "khẳng định": "肯定",
+            "khía cạnh": "方面",
+            "cơ bản": "基本",
+            "sợi dây": "纽带",
+            "kết nối": "连接",
+            "cội nguồn": "根源",
+            "cá nhân": "个人",
+            "nhận thức": "认识",
+            "quê hương": "家乡",
+            "tổ tiên": "祖先",
+            "cố kết": "凝聚",
+            "đồng cảm": "共鸣",
+            "số mệnh": "命运",
+            "lợi ích": "利益",
+            "đáp ứng": "满足",
+            "nhu cầu": "需求",
+            "tâm linh": "心灵",
+            "trạng thái": "状态",
+            "thăng hoa": "升华",
+            "cuộc sống": "生活",
+            "trần tục": "尘世",
+            "hưởng thụ": "享受",
+            "giải tỏa": "释放",
+            "áp lực": "压力",
+            "thường nhật": "日常",
+            "hoạt động": "活动",
+            "giải trí": "娱乐",
+            "vai trò": "角色",
+            "bảo tàng": "博物馆",
+            "trao truyền": "传承",
+            "đạo đức": "道德",
+            "phong tục": "风俗",
+            "thế hệ": "世代",
+            "bảo tồn": "保护",
+            "động lực": "动力",
+            "thúc đẩy": "推动",
+            "phát triển": "发展",
+            "bền vững": "可持续",
+            "xã hội": "社会",
+            "đương đại": "当代"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Lễ hội truyền thống là di sản văn hóa tinh thần quý giá của dân tộc Việt Nam.",
+                    "Sự hòa quyện giữa tính thiêng liêng và sự sôi nổi tạo nên một môi trường văn hóa hài hòa.",
+                    "Lễ hội truyền thống gắn liền với các di tích lịch sử, đình, đền, miếu hoặc các nhân vật có công.",
+                    "Vì lễ hội là di sản văn hóa, nên chúng ta cần phải bảo tồn và phát huy giá trị của nó."
+                ],
+                "correct": "Lễ hội truyền thống gắn liền với các di tích lịch sử, đình, đền, miếu hoặc các nhân vật có công."
+            },
+            {
+                "question": "Theo bài đọc, hai thành tố chính tạo nên lễ hội là gì?",
+                "options": [
+                    "Lễ cáo yết và đại tế",
+                    "Lễ và hội",
+                    "Nghi thức và trò chơi dân gian",
+                    "Tín ngưỡng và hoạt động giải trí"
+                ],
+                "correct": "Lễ và hội"
+            },
+            {
+                "question": "Lễ hội truyền thống thường diễn ra vào thời điểm nào trong năm?",
+                "options": [
+                    "Mùa đông và mùa hè",
+                    "Mùa xuân và mùa thu",
+                    "Mùa hạ và mùa đông",
+                    "Tất cả các mùa trong năm"
+                ],
+                "correct": "Mùa xuân và mùa thu"
+            },
+            {
+                "question": "Từ “cố kết” trong đoạn thứ ba có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Chia rẽ",
+                    "Gắn kết",
+                    "Phân hóa",
+                    "Tách biệt"
+                ],
+                "correct": "Gắn kết"
+            },
+            {
+                "question": "Vì sao lễ hội thường diễn ra vào mùa xuân và mùa thu?",
+                "options": [
+                    "Vì đây là thời điểm thời tiết thuận lợi nhất cho việc tổ chức ngoài trời.",
+                    "Vì đó là thời gian rảnh rỗi nhất của người dân sau mùa vụ.",
+                    "Vì nó tương ứng với chu kỳ sản xuất nông nghiệp và khát vọng cầu mùa.",
+                    "Vì các vị thần linh thường xuất hiện vào hai mùa này."
+                ],
+                "correct": "Vì nó tương ứng với chu kỳ sản xuất nông nghiệp và khát vọng cầu mùa."
+            },
+            {
+                "question": "Cụm từ “bảo tàng sống” trong bài đọc được hiểu là gì?",
+                "options": [
+                    "Một nơi lưu giữ các hiện vật cổ bằng kính.",
+                    "Một không gian nơi các giá trị văn hóa, phong tục được thực hành và trao truyền liên tục.",
+                    "Một địa điểm du lịch thu hút đông đảo khách tham quan.",
+                    "Một công trình kiến trúc được bảo tồn nguyên vẹn qua nhiều thế kỷ."
+                ],
+                "correct": "Một không gian nơi các giá trị văn hóa, phong tục được thực hành và trao truyền liên tục."
+            },
+            {
+                "question": "Qua cách mô tả về quá trình chuẩn bị lễ hội, tác giả thể hiện thái độ gì?",
+                "options": [
+                    "Sự phê phán tính rườm rà, tốn kém của các nghi lễ.",
+                    "Sự trân trọng đối với tính kỷ luật và tinh thần đoàn kết của cộng đồng.",
+                    "Sự thờ ơ đối với các nghi thức truyền thống.",
+                    "Sự lo ngại về việc mất đi các giá trị cổ truyền."
+                ],
+                "correct": "Sự trân trọng đối với tính kỷ luật và tinh thần đoàn kết của cộng đồng."
+            },
+            {
+                "question": "Chi tiết “lễ rước được coi là linh hồn của lễ hội” nhằm mục đích gì?",
+                "options": [
+                    "Để khẳng định tầm quan trọng của nghi thức này trong việc thể hiện sức mạnh cộng đồng.",
+                    "Để chứng minh rằng lễ hội không thể thiếu các trò diễn dân gian.",
+                    "Để giải thích lý do tại sao người dân lại yêu thích lễ hội.",
+                    "Để phủ nhận vai trò của các nghi lễ khác như đại tế hay lễ mộc dục."
+                ],
+                "correct": "Để khẳng định tầm quan trọng của nghi thức này trong việc thể hiện sức mạnh cộng đồng."
+            },
+            {
+                "question": "Nội dung chính của bài đọc là gì?",
+                "options": [
+                    "Lịch sử hình thành các lễ hội tại Việt Nam qua hàng nghìn năm.",
+                    "Vai trò, ý nghĩa và giá trị của lễ hội truyền thống trong đời sống văn hóa dân tộc.",
+                    "Hướng dẫn cách tổ chức một lễ hội truyền thống đúng nghi thức.",
+                    "Sự khác biệt giữa lễ hội truyền thống và các hoạt động giải trí hiện đại."
+                ],
+                "correct": "Vai trò, ý nghĩa và giá trị của lễ hội truyền thống trong đời sống văn hóa dân tộc."
+            },
+            {
+                "question": "Tư tưởng chủ đạo của tác giả xuyên suốt bài viết là gì?",
+                "options": [
+                    "Lễ hội là một gánh nặng kinh tế cần được tinh giản.",
+                    "Lễ hội là di sản quý giá cần được bảo tồn và phát huy để thúc đẩy sự phát triển bền vững.",
+                    "Lễ hội chỉ có ý nghĩa đối với thế hệ người già.",
+                    "Lễ hội cần được thay đổi hoàn toàn để phù hợp với xã hội đương đại."
+                ],
+                "correct": "Lễ hội là di sản quý giá cần được bảo tồn và phát huy để thúc đẩy sự phát triển bền vững."
+            },
+            {
+                "question": "Theo bài đọc, hoạt động nào sau đây được coi là một phần của “hội”?",
+                "options": [
+                    "Lễ cáo yết",
+                    "Lễ mộc dục",
+                    "Đại tế",
+                    "Các trò diễn dân gian"
+                ],
+                "correct": "Các trò diễn dân gian"
+            },
+            {
+                "question": "Dựa vào văn bản, nếu một lễ hội không có sự tham gia đông đảo của cộng đồng thì điều gì sẽ xảy ra?",
+                "options": [
+                    "Lễ hội sẽ trở nên trang nghiêm hơn.",
+                    "Lễ hội sẽ mất đi tính kết nối và chức năng cố kết cộng đồng.",
+                    "Lễ hội sẽ tiết kiệm được nhiều chi phí hơn.",
+                    "Lễ hội sẽ trở thành một bảo tàng sống thực thụ."
+                ],
+                "correct": "Lễ hội sẽ mất đi tính kết nối và chức năng cố kết cộng đồng."
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
