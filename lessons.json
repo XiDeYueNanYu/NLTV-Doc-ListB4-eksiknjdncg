@@ -4710,5 +4710,261 @@
         ],
         "imageUrl": "",
         "audioUrl": ""
+    },
+    {
+        "title": "Nét tinh hoa và bản sắc độc đáo của ẩm thực Cố đô Huế",
+        "text": "Ẩm thực Huế không chỉ là một hệ thống các món ăn đa dạng mà còn là biểu tượng tiêu biểu cho sự giao thoa văn hóa đặc sắc của nền văn minh lúa nước. Nơi đây vốn là trung tâm của xứ Đàng Trong thời chúa Nguyễn, sau đó trở thành kinh đô phồn hoa suốt thế kỷ XIX, nơi quy tụ tầng lớp quý tộc, nho sĩ và trí thức tinh hoa. Chính bề dày lịch sử ấy đã tạo tiền đề cho người Huế hình thành phong cách chế biến vô cùng tinh tế, cầu kỳ, kết hợp nhuần nhuyễn giữa sự sang trọng của cung đình và sự mộc mạc, gần gũi của ẩm thực dân dã.\n\nNgày nay, dù không còn giữ vai trò trung tâm kinh tế - chính trị, Huế vẫn là mảnh đất lưu giữ những giá trị văn hóa vàng son. Đặc trưng của ẩm thực Huế nằm ở sự đậm đà, rõ ràng trong hương vị. Người Huế trân trọng sự cân bằng, vị nào ra vị ấy, từ mặn, ngọt, béo, bùi đến chua, chát, đắng, cay. Sự phong phú này còn phản ánh tư duy triết học về âm dương ngũ hành, hàn nhiệt điều hòa trong cách chọn nguyên liệu và phối hợp gia vị. Những bí quyết lưu truyền từ đời này sang đời khác, cùng với sự không ngừng sáng tạo trong cách kết hợp rau củ, thảo mộc, đã tạo nên những tác phẩm ẩm thực độc đáo.\n\nKhông chỉ chú trọng hương vị, người Huế còn coi trọng hình thức. Mỗi món ăn là một tác phẩm nghệ thuật, từ cách trang trí tỉ mỉ đến việc lựa chọn chén bát phù hợp, sang trọng. Chẳng hạn, bánh bèo phải được đựng trong những chén đất nhỏ xinh, chè hạt sen phải dọn trong bát sứ cao cấp. Người Huế quan niệm rằng thưởng thức món ăn không chỉ dừng lại ở vị giác mà phải huy động toàn bộ ngũ quan. Món ăn phải làm hài lòng cả thị giác qua màu sắc, khứu giác qua hương thơm, và cả cảm xúc qua sự tinh tế trong cách bày biện.\n\nDù là các món cao lương mỹ vị hay những thức quà dân dã, ẩm thực Huế luôn toát lên vẻ thanh tao, nhẹ nhàng, đúng như quan niệm \"ăn lấy hương lấy hoa\" của người dân nơi đây. Những chiếc bánh nậm mỏng manh, tô bánh canh Nam Phổ đầy màu sắc hay chén chè bắp mát lịm đều chứa đựng tâm hồn và nét tâm linh của mảnh đất Cố đô. Qua bàn tay khéo léo của người phụ nữ, mỗi món ăn trở thành một trải nghiệm văn hóa sâu sắc, khiến bất cứ ai từng thưởng thức qua đều phải lưu luyến mãi cái hương vị đậm đà, khó quên đến mức \"ngậm mà nghe\" trong tâm tưởng.",
+        "dictionary": {
+            "Ẩm thực": "饮食",
+            "Huế": "顺化",
+            "hệ thống": "系统",
+            "món ăn": "菜肴",
+            "đa dạng": "多样",
+            "biểu tượng": "象征",
+            "tiêu biểu": "典型",
+            "giao thoa": "交融",
+            "văn hóa": "文化",
+            "đặc sắc": "独特",
+            "nền văn minh": "文明",
+            "lúa nước": "水稻",
+            "trung tâm": "中心",
+            "xứ Đàng Trong": "内路",
+            "thời": "时期",
+            "chúa Nguyễn": "阮主",
+            "kinh đô": "京城",
+            "phồn hoa": "繁华",
+            "thế kỷ": "世纪",
+            "tầng lớp": "阶层",
+            "quý tộc": "贵族",
+            "nho sĩ": "儒士",
+            "trí thức": "知识分子",
+            "tinh hoa": "精华",
+            "bề dày": "深厚",
+            "lịch sử": "历史",
+            "tiền đề": "前提",
+            "phong cách": "风格",
+            "chế biến": "制作",
+            "tinh tế": "精致",
+            "cầu kỳ": "讲究",
+            "kết hợp": "结合",
+            "nhuần nhuyễn": "娴熟",
+            "sang trọng": "高贵",
+            "cung đình": "宫廷",
+            "mộc mạc": "朴素",
+            "gần gũi": "亲近",
+            "dân dã": "民间",
+            "vai trò": "角色",
+            "kinh tế": "经济",
+            "chính trị": "政治",
+            "mảnh đất": "土地",
+            "lưu giữ": "保留",
+            "giá trị": "价值",
+            "vàng son": "辉煌",
+            "đặc trưng": "特征",
+            "đậm đà": "浓郁",
+            "rõ ràng": "清晰",
+            "hương vị": "风味",
+            "trân trọng": "珍视",
+            "cân bằng": "平衡",
+            "vị": "味道",
+            "mặn": "咸",
+            "ngọt": "甜",
+            "béo": "肥",
+            "bùi": "香",
+            "chua": "酸",
+            "chát": "涩",
+            "đắng": "苦",
+            "cay": "辣",
+            "phong phú": "丰富",
+            "phản ánh": "反映",
+            "tư duy": "思维",
+            "triết học": "哲学",
+            "âm dương": "阴阳",
+            "ngũ hành": "五行",
+            "hàn nhiệt": "寒热",
+            "điều hòa": "调和",
+            "nguyên liệu": "原料",
+            "gia vị": "调料",
+            "bí quyết": "秘诀",
+            "lưu truyền": "流传",
+            "đời": "代",
+            "sáng tạo": "创造",
+            "rau củ": "蔬菜",
+            "thảo mộc": "草本",
+            "tác phẩm": "作品",
+            "độc đáo": "独特",
+            "chú trọng": "注重",
+            "hình thức": "形式",
+            "nghệ thuật": "艺术",
+            "trang trí": "装饰",
+            "tỉ mỉ": "细致",
+            "lựa chọn": "选择",
+            "chén bát": "碗碟",
+            "phù hợp": "适合",
+            "bánh bèo": "水糕",
+            "đựng": "盛",
+            "chè hạt sen": "莲子甜汤",
+            "dọn": "摆放",
+            "bát sứ": "瓷碗",
+            "cao cấp": "高级",
+            "quan niệm": "观念",
+            "thưởng thức": "品尝",
+            "vị giác": "味觉",
+            "huy động": "调动",
+            "ngũ quan": "五官",
+            "hài lòng": "满意",
+            "thị giác": "视觉",
+            "màu sắc": "颜色",
+            "khứu giác": "嗅觉",
+            "hương thơm": "香气",
+            "cảm xúc": "情感",
+            "bày biện": "摆设",
+            "cao lương mỹ vị": "山珍海味",
+            "thức quà": "小吃",
+            "thanh tao": "清雅",
+            "nhẹ nhàng": "轻盈",
+            "bánh nậm": "南糕",
+            "mỏng manh": "薄",
+            "bánh canh": "木薯粉条",
+            "Nam Phổ": "南浦",
+            "chè bắp": "玉米甜汤",
+            "mát lịm": "清凉",
+            "tâm hồn": "灵魂",
+            "tâm linh": "灵性",
+            "Cố đô": "古都",
+            "bàn tay": "手",
+            "khéo léo": "灵巧",
+            "phụ nữ": "女性",
+            "trải nghiệm": "体验",
+            "sâu sắc": "深刻",
+            "lưu luyến": "留恋",
+            "khó quên": "难忘",
+            "ngậm mà nghe": "细细品味",
+            "tâm tưởng": "心境"
+        },
+        "quizData": [
+            {
+                "question": "Trong bốn câu sau đây, câu nào là câu sai về mặt ngữ pháp?",
+                "options": [
+                    "Ẩm thực Huế là biểu tượng tiêu biểu cho sự giao thoa văn hóa đặc sắc.",
+                    "Người Huế trân trọng sự cân bằng, vị nào ra vị ấy, từ mặn, ngọt, béo, bùi đến chua, chát, đắng, cay.",
+                    "Vì bề dày lịch sử ấy đã tạo tiền đề cho người Huế hình thành phong cách chế biến tinh tế.",
+                    "Mỗi món ăn là một tác phẩm nghệ thuật, từ cách trang trí tỉ mỉ đến việc lựa chọn chén bát phù hợp."
+                ],
+                "correct": "Vì bề dày lịch sử ấy đã tạo tiền đề cho người Huế hình thành phong cách chế biến tinh tế."
+            },
+            {
+                "question": "Theo bài đọc, đâu là nơi từng là trung tâm của xứ Đàng Trong thời chúa Nguyễn?",
+                "options": [
+                    "Đà Nẵng",
+                    "Huế",
+                    "Quảng Nam",
+                    "Phú Xuân"
+                ],
+                "correct": "Huế"
+            },
+            {
+                "question": "Đặc trưng nào của ẩm thực Huế được nhắc đến trong đoạn thứ hai?",
+                "options": [
+                    "Sự đậm đà, rõ ràng trong hương vị",
+                    "Sự cầu kỳ trong cách chế biến món ăn dân dã",
+                    "Sự mộc mạc, đơn giản trong cách bày trí",
+                    "Sự kết hợp giữa các món ăn hiện đại và truyền thống"
+                ],
+                "correct": "Sự đậm đà, rõ ràng trong hương vị"
+            },
+            {
+                "question": "Từ “vàng son” trong đoạn thứ hai có thể được thay thế bằng từ nào sau đây?",
+                "options": [
+                    "Cổ kính",
+                    "Rực rỡ",
+                    "Quý giá",
+                    "Lâu đời"
+                ],
+                "correct": "Quý giá"
+            },
+            {
+                "question": "Vì sao người Huế lại chú trọng đến việc chọn chén bát phù hợp khi dọn món ăn?",
+                "options": [
+                    "Để tiết kiệm chi phí cho các hộ gia đình",
+                    "Để thể hiện sự giàu có của tầng lớp quý tộc",
+                    "Để làm hài lòng thị giác và nâng tầm món ăn thành tác phẩm nghệ thuật",
+                    "Để tuân thủ các quy định khắt khe của cung đình xưa"
+                ],
+                "correct": "Để làm hài lòng thị giác và nâng tầm món ăn thành tác phẩm nghệ thuật"
+            },
+            {
+                "question": "Cụm từ “ăn lấy hương lấy hoa” trong bài đọc có thể được hiểu là gì?",
+                "options": [
+                    "Ăn uống chỉ để no bụng",
+                    "Ăn uống chú trọng sự thưởng thức tinh tế và thanh tao",
+                    "Ăn các món làm từ hoa và hương liệu",
+                    "Ăn uống một cách nhanh chóng, vội vàng"
+                ],
+                "correct": "Ăn uống chú trọng sự thưởng thức tinh tế và thanh tao"
+            },
+            {
+                "question": "Thái độ của tác giả đối với ẩm thực Huế được thể hiện như thế nào?",
+                "options": [
+                    "Khách quan, lạnh lùng",
+                    "Trân trọng, ngưỡng mộ",
+                    "Phê phán sự cầu kỳ",
+                    "Thờ ơ, xa cách"
+                ],
+                "correct": "Trân trọng, ngưỡng mộ"
+            },
+            {
+                "question": "Mục đích chính của việc tác giả liệt kê các món như bánh nậm, bánh canh Nam Phổ, chè bắp là gì?",
+                "options": [
+                    "Để chứng minh ẩm thực Huế rất rẻ tiền",
+                    "Để liệt kê danh sách các món ăn cần phải thử khi đến Huế",
+                    "Để làm minh chứng cho sự đa dạng và tâm hồn gửi gắm trong ẩm thực Huế",
+                    "Để so sánh sự khác biệt giữa món ăn cung đình và món ăn dân dã"
+                ],
+                "correct": "Để làm minh chứng cho sự đa dạng và tâm hồn gửi gắm trong ẩm thực Huế"
+            },
+            {
+                "question": "Nội dung chính của toàn bộ bài đọc là gì?",
+                "options": [
+                    "Lịch sử hình thành của kinh đô Huế",
+                    "Cách chế biến các món ăn đặc sản tại Huế",
+                    "Vẻ đẹp và giá trị văn hóa tinh tế trong ẩm thực Huế",
+                    "Triết học âm dương ngũ hành trong đời sống người Huế"
+                ],
+                "correct": "Vẻ đẹp và giá trị văn hóa tinh tế trong ẩm thực Huế"
+            },
+            {
+                "question": "Quan điểm xuyên suốt của tác giả về ẩm thực Huế là gì?",
+                "options": [
+                    "Ẩm thực Huế là sự kết hợp hoàn hảo giữa vật chất và tinh thần",
+                    "Ẩm thực Huế chỉ nên giữ lại những nét truyền thống cung đình",
+                    "Ẩm thực Huế đang dần bị mai một theo thời gian",
+                    "Ẩm thực Huế là nền ẩm thực duy nhất ở Việt Nam có triết lý"
+                ],
+                "correct": "Ẩm thực Huế là sự kết hợp hoàn hảo giữa vật chất và tinh thần"
+            },
+            {
+                "question": "Người Huế quan niệm việc thưởng thức món ăn phải huy động những yếu tố nào?",
+                "options": [
+                    "Chỉ cần vị giác và khứu giác",
+                    "Toàn bộ ngũ quan và cảm xúc tinh tế",
+                    "Sự sang trọng của chén bát và không gian",
+                    "Sự kết hợp giữa nguyên liệu tươi và thảo mộc"
+                ],
+                "correct": "Toàn bộ ngũ quan và cảm xúc tinh tế"
+            },
+            {
+                "question": "Cụm từ “ngậm mà nghe” trong đoạn cuối bài đọc gợi lên cảm giác gì?",
+                "options": [
+                    "Sự khó khăn khi ăn các món ăn lạ",
+                    "Sự lắng đọng, dư vị sâu sắc và cảm nhận tinh tế sau khi thưởng thức",
+                    "Sự im lặng tuyệt đối khi đang dùng bữa",
+                    "Sự hoài nghi về hương vị của món ăn"
+                ],
+                "correct": "Sự lắng đọng, dư vị sâu sắc và cảm nhận tinh tế sau khi thưởng thức"
+            }
+        ],
+        "imageUrl": "",
+        "audioUrl": ""
     }
 ]
